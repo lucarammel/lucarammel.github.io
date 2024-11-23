@@ -3,10 +3,11 @@
 
 <img src="../images/PEREIRA_Lucas.png" alt="My Photo" class="rounded-photo" />
 
+
 * 📍  Paris
 * 💻  Data Science & Energy modelisation for [Artelys](https://www.artelys.com/). Previously, [Rte](https://www.rte-france.com/) & [IEA](https://www.iea.org/)
 * 💭  Interested in modelling in sectors with high technical and economic challenges such as energy systems, transport and environment.
-* 👷  My expertise lies primarily in the energy sector, particularly in energy system modeling and market design.
+* 👷  I mainly implement data solutions and modelling tools using *#Python* and *#R*
 * 🚀  I have a strong interest  for software development and discovering new tools, always curious about new technologies coming out !
 
 <h2 align="left"> What I use everyday </h2>
