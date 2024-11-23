@@ -1,0 +1,9 @@
+[project]
+name = "lucarammel-github-io"
+version = "0.1.0"
+description = "My portfolio !"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs-material>=9.5.44",
+]

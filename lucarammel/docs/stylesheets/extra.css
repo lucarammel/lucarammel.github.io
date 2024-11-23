@@ -1,0 +1,16 @@
+.rounded-photo {
+    display: block;
+    margin: 20px auto;
+    width: 200px;  /* Adjust size as needed */
+    height: 200px; /* Make sure width and height are equal for a perfect circle */
+    border-radius: 50%; /* Makes the image round */
+    object-fit: cover;  /* Ensures the image covers the rounded area */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0); /* Optional shadow */
+}
+
+
+:root {
+    --md-primary-fg-color:        #00A388;
+    --md-primary-fg-color--light: #00A388;
+    --md-primary-fg-color--dark:  #00A388;
+  }
