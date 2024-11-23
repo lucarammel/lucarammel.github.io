@@ -1,5 +1,5 @@
-site_name: "Lucas Pereira"
-site_description: "Data Scientist in the Energy Industry"
+site_name: "Test"
+site_description: "My portfolio !"
 theme:
   name: material
   palette:
