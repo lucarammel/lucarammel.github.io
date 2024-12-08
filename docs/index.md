@@ -11,12 +11,14 @@
 * 🚀  I have a strong interest  for software development and discovering new tools, always curious about new technologies coming out !
 
 
-<h2 align="left"> What I use everyday </h2>
+<h2 align="left"> What I use everyday</h2>
 <p align="left"> 
           <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 15px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
           <a href="https://www.r-project.org/" target="_blank" rel="noreferrer" style="margin-right: 15px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" alt="r logo"> </a>
 
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-right: 15px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="docker logo"> </a>
+
+ <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql logo"> </a>
 
 </p>
 <h2 align="left">Contacts and socials</h2>

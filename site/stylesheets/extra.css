@@ -10,7 +10,14 @@
 
 
 :root {
-    --md-primary-fg-color:        #00A388;
-    --md-primary-fg-color--light: #00A388;
-    --md-primary-fg-color--dark:  #00A388;
+    --green: #00A388;
+    --white: #ffffff;;
+    --black: #000000;
+  }
+
+  [data-md-color-scheme="theme-light"] {
+    --md-default-bg-color--dark: var(--black);
+    --md-primary-fg-color: var(--green);
+    --md-typeset-a-color: var(--black);
+    --md-accent-fg-color: var(--green);
   }
