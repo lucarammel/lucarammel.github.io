@@ -5,6 +5,7 @@
 ## Education
 
 ### **École des Mines de Paris (Mines ParisTech)** – *Paris*  
+
 **Civil Engineer** – *Sept. 2020 – Mar. 2022*  
 
 - Specialization in **Geostatistics and Applied Probability**.
@@ -56,7 +57,7 @@
 ### **International Energy Agency (IEA)**  
 
 **Intern – Modeling Engineer** – *Mar. 2021 – Sept. 2021* 
- 
+
 - Developed a **Python model** to disaggregate electricity demand by subsector of use using **deep learning** (MLPs) for multiple countries.  
 - Contributed to the **2021 World Energy Outlook** in the **demand-side** section.
 
