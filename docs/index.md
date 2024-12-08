@@ -10,6 +10,7 @@
 * 👷  I mainly implement data solutions and modelling tools using *#Python* and *#R*
 * 🚀  I have a strong interest  for software development and discovering new tools, always curious about new technologies coming out !
 
+
 <h2 align="left"> What I use everyday </h2>
 <p align="left"> 
           <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 15px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
