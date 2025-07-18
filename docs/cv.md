@@ -1,83 +1,79 @@
-# Curriculum Vitae
 
----
+# My CV
 
 ## Education
 
-### **École des Mines de Paris (Mines ParisTech)** – *Paris*  
+### **École des Mines de Paris (Mines ParisTech)** – *Paris, 5th arrondissement*  
 
 **Civil Engineer** – *Sept. 2020 – Mar. 2022*  
 
-- Specialization in **Geostatistics and Applied Probability**.
+- Specialization in **Geostatistics and Applied Probabilities**.
 
-### **École supérieure de physique et chimie industrielles de Paris (ESPCI Paris)** – *Paris*  
+### **École supérieure de physique et chimie industrielles de Paris (ESPCI Paris)** – *Paris, 5th arrondissement*  
 
-**Engineer – Physics Option** – *Sept. 2017 – Sept. 2020*  
+**Engineering – Physics Track** – *Sept. 2017 – Sept. 2020*  
 
 - Multidisciplinary scientific foundation: mathematics, physics, chemistry, and biology.  
 - Major in **Biophysics**.
 
 ### **Lycée Hoche** – *Versailles* 
 
-**Preparatory Class for Grandes Écoles – Physics & Chemistry Option** – *Sept. 2015 – Aug. 2017*  
+**Preparatory Classes for Engineering Schools – Physics & Chemistry Track** – *Sept. 2015 – Aug. 2017*  
 
-- Multidisciplinary scientific education: mathematics, physics, and chemistry.  
-- Preparation for entrance exams to top engineering schools.
+- Multidisciplinary scientific training: mathematics, physics, and chemistry.  
+- Preparation for competitive engineering school entrance exams.
 
 ---
 
 ## Experience
 
-### **Artelys**  
+### **Artelys** – *Paris*
 
 **Consultant – Data Science** – *May 2023 – Present*  
 
-- Develop operational solutions (dashboards, applications) for data science models, including reporting libraries, data visualization, APIs, and ML modeling.  
-- Apply **data science** for **energy**, focusing on time series prediction, clustering, and climate correction.  
-- Involved in **DataOps** and **DevOps**, deploying applications and microservices (Database, API, Dashboard).  
-- Conduct **R training sessions**, covering basic R to deployment of an electricity consumption data visualization dashboard.
+- Developed and maintained operational solutions (dashboards, APIs, web applications) supporting data science models, using Python, R, FastAPI, and Plotly.
+- Applied machine learning and statistical techniques in the energy sector: time series forecasting, clustering, and climate-adjusted modeling for energy demand and production.
+- Designed and deployed microservices and applications using Docker, CI/CD pipelines (GitHub Actions, GitLab CI), and AWS S3 or PostgreSQL for data storage and access.
+- Implemented workflow orchestration through API-driven coordination and SLURM job scheduling on HPC clusters; integrated RabbitMQ for asynchronous task handling.
+- Delivered hands-on R training sessions, from programming fundamentals to deploying dashboards for electricity consumption and production data analysis.
 
----
+### **Réseau Transport d'Électricité (RTE)** – *Paris, La Défense*
 
-### **RTE (Réseau de Transport d’Électricité)**  
+**Energy Market Modeling Engineer** – *Mar. 2022 – Mar. 2023*  
 
-**Engineer – Market Modeling** – *Mar. 2022 – Mar. 2023*  
-
-- Modeled investments and behaviors of energy market players and capacity.  
-- Developed an **R model** for investment modeling and simulation, enhancing the **Antares Simulator** (European electricity system simulator).
+- Modeled investment decisions and strategic behaviors of market participants in electricity and capacity markets, contributing to long-term market scenario planning.
+- Developed a modular simulation tool in R to model investment strategies, integrated as an extension of the Antares Simulator for European power system analysis.
 
 **Intern – Network Modeling Engineer** – *Sept. 2021 – Mar. 2022*  
 
-- Conducted prospective studies on the economic benefits of batteries for managing grid congestion by 2050.  
-- Modeled network investments related to stationary storage (batteries) for regional grids.  
-- Developed and maintained a **Python heuristic** for calculating network investments and battery behavior.
+- Performed prospective techno-economic studies assessing the value of stationary storage (batteries) for congestion management in the 2050 power grid.
+- Modeled and evaluated regional grid investment scenarios incorporating storage technologies.
+- Developed and maintained a Python-based heuristic model to simulate network investments and battery operation under future grid conditions.
 
----
-
-### **International Energy Agency (IEA)**  
+### **International Energy Agency (IEA)** – *Paris, 15th arrondissement*
 
 **Intern – Modeling Engineer** – *Mar. 2021 – Sept. 2021* 
 
-- Developed a **Python model** to disaggregate electricity demand by subsector of use using **deep learning** (MLPs) for multiple countries.  
-- Contributed to the **2021 World Energy Outlook** in the **demand-side** section.
+- Built a Python model using deep learning (MLPs) to disaggregate national electricity demand by end-use sector across multiple countries.
+- Conducted quantitative energy economics analysis and contributed to the **World Energy Outlook 2021**, particularly within the demand-side modeling chapter.
 
 ---
 
-## Languages & Skills
+## Languages & IT Skills
 
 ### **Programming**  
 
-- *Python*
-- *R*
-- *SQL*
+- **Python, R** (expert level, package development, modeling, data science, visualization, optimization, deep learning, APIs)
+- **SQL**
 
-### **Software & other tools**  
+### **Software & Tools**  
 
-- *Docker*
-- *Airflow*
-- *Slurm*
-- *PostgreSQL*
+- **Docker** (Containerization and microservices development)
+- **PostgreSQL** (database)
+- **Slurm** (HPC workload manager)
+- **RabbitMQ** (message broker)
 
 ### **Languages**  
 
-- **English** (Fluent), **Spanish** (Intermediate)
+- **English** (Fluent)
+- **Spanish** (Fluent)
