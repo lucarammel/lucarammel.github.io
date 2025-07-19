@@ -35,8 +35,6 @@ jobs:
           mkdocs build --verbose --clean
           echo "Build completed. Generated files:"
           ls -la ./site/
-          echo "Checking index.html content:"
-          head -20 ./site/index.html
         
       - name: Deploy built site to OVH via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
