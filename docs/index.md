@@ -5,21 +5,24 @@
 
 
 * 📍  Paris
-* 💻  Data Science & Energy modelisation for [Artelys](https://www.artelys.com/). Previously, [Rte](https://www.rte-france.com/) & [IEA](https://www.iea.org/)
-* 💭  Interested in modelling in sectors with high technical and economic challenges such as energy systems, transport and environment.
-* 👷  I mainly implement data solutions and modelling tools using *#Python* and *#R*
-* 🚀  I have a strong interest  for software development and discovering new tools, always curious about new technologies coming out !
+* 💻  **Data Scientist Engineer** with a strong background in **modeling**, **analytics**, and **decision-support tools** for the energy sector
+* 🔧  Experienced in designing **end-to-end data solutions**, from forecasting and simulation to deployment and automation
+* 💡  Proven track record in translating complex systems into actionable insights for **market design** and **energy planning**
+* 🌱  Motivated by impactful challenges at the intersection of data, systems, and sustainability, especially in **ClimateTech** and **FinTech**
+* 👷  Currently at [Artelys](https://www.artelys.com/). Previously, [Rte](https://www.rte-france.com/) & [IEA](https://www.iea.org/)
+* 🚀  I have a strong interest for software development and discovering new tools, always curious about new technologies coming out !
 
 
-<h2 align="left"> What I use everyday</h2>
-<p align="left"> 
-          <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 15px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-          <a href="https://www.r-project.org/" target="_blank" rel="noreferrer" style="margin-right: 15px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" alt="r logo"> </a>
-
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-right: 15px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="docker logo"> </a>
-
- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql logo"> </a>
-
+<h2 align="left">What I use everyday</h2>
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 15px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer" style="margin-right: 15px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" alt="r logo"> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" style="margin-right: 15px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="fastapi logo"> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-right: 15px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="docker logo"> </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="margin-right: 15px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql logo"> </a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="margin-right: 15px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="aws logo"> </a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer" style="margin-right: 15px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="github actions logo"> </a>
+<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="40" height="40" alt="plotly logo"> </a>
 </p>
 <h2 align="left">Contacts and socials</h2>
 <p align="left">
