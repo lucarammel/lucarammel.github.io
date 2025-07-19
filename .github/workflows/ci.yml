@@ -46,3 +46,4 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./site/
           server-dir: /home/lucarac/
+          dangerous-clean-slate: true
