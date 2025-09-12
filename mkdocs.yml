@@ -18,6 +18,7 @@ nav:
   - ❓ About: index.md
   - 🚧 Projects: projects.md
   - 📑 CV: cv.md
+  - ☕ Coffee: coffee.md
 
 plugins:
   - search
