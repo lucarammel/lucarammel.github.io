@@ -12,6 +12,7 @@ A showcase of my work in data science, energy modeling, and software development
 Dynamic investment simulation tool for the Antares Simulator ecosystem, providing market participant perspective analysis.
 
 **Key Features:**
+
 - Investment decision modeling for electricity markets
 - Integration with Antares Simulator for European power system analysis
 - Strategic behavior simulation for capacity markets
@@ -25,6 +26,7 @@ Dynamic investment simulation tool for the Antares Simulator ecosystem, providin
 Advanced power demand disaggregation tool using deep learning methods to analyze electricity consumption patterns.
 
 **Key Features:**
+
 - Multi-layer perceptron (MLP) models for demand forecasting
 - Disaggregation of national electricity demand by end-use sector
 - Cross-country analysis capabilities
@@ -38,6 +40,7 @@ Advanced power demand disaggregation tool using deep learning methods to analyze
 Comprehensive R toolbox for climatic correction of time series data and implementation of statistical models.
 
 **Key Features:**
+
 - Facilitates climatic correction of energy consumption data
 - Advanced time series analysis capabilities
 - Implementation of new statistical models
@@ -55,6 +58,7 @@ Comprehensive R toolbox for climatic correction of time series data and implemen
 Robust database migration tool for seamlessly transferring data from MySQL to PostgreSQL.
 
 **Key Features:**
+
 - Automated schema conversion
 - Data integrity preservation
 - Batch processing for large datasets
@@ -70,6 +74,7 @@ Robust database migration tool for seamlessly transferring data from MySQL to Po
 A playful simulation of dating app dynamics using market analysis principles.
 
 **Key Features:**
+
 - Agent-based modeling of dating behavior
 - Market dynamics simulation
 - Statistical analysis of matching patterns
