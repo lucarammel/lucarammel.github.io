@@ -19,6 +19,7 @@ Dynamic investment simulation tool for the Antares Simulator ecosystem, providin
 - Long-term market scenario planning capabilities
 
 > Project made for **Rte**.
+
 ---
 
 ### [LoadModel](https://github.com/lucarammel/loadmodel)
@@ -34,6 +35,7 @@ Advanced power demand disaggregation tool using deep learning methods to analyze
 - Contributed to IEA World Energy Outlook 2021
 
 > Project made for **IEA**.
+
 ---
 
 ### [Corrclim](https://github.com/lucarammel/corrclim)
@@ -48,7 +50,7 @@ Comprehensive R toolbox for climatic correction of time series data and implemen
 - Implementation of new statistical models
 - Weather normalization for energy demand analysis
 
-> Project made for **EDF**. This is a private repo.
+> Project made for **Edf**. This is a private repo.
 
 ---
 
