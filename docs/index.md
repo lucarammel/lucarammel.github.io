@@ -8,7 +8,7 @@
 * 💻  **Data Scientist Engineer** with a strong background in **modeling**, **analytics**, and **decision-support tools** for the energy sector
 * 🔧  Experienced in designing **end-to-end data solutions**, from forecasting and simulation to deployment and automation
 * 💡  Proven track record in translating complex systems into actionable insights for **market design** and **energy planning**
-* 🌱  Motivated by impactful challenges at the intersection of data, systems, and sustainability, especially in **ClimateTech** and **FinTech**
+* 🌱  Motivated by impactful challenges at the intersection of data, systems, and sustainability, especially in **ClimateTech**.
 * 👷  Currently at [Artelys](https://www.artelys.com/). Previously, [Rte](https://www.rte-france.com/) & [IEA](https://www.iea.org/)
 * 🚀  I have a strong interest for software development and discovering new tools, always curious about new technologies coming out !
 

@@ -77,14 +77,5 @@ A playful simulation of dating app dynamics using market analysis principles.
 
 ---
 
-## Technologies Used
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" style="margin-right: 10px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="30" height="30" style="margin-right: 10px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30" style="margin-right: 10px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30" style="margin-right: 10px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="30" height="30"/>
-</p>
 
 **Core Focus Areas:** Energy Systems Modeling • Machine Learning • Data Engineering • Statistical Analysis • Market Simulation
