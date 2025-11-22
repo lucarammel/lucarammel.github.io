@@ -18,6 +18,7 @@ Dynamic investment simulation tool for the Antares Simulator ecosystem, providin
 - Strategic behavior simulation for capacity markets
 - Long-term market scenario planning capabilities
 
+> Project made for **Rte**.
 ---
 
 ### [LoadModel](https://github.com/lucarammel/loadmodel)
@@ -32,6 +33,7 @@ Advanced power demand disaggregation tool using deep learning methods to analyze
 - Cross-country analysis capabilities
 - Contributed to IEA World Energy Outlook 2021
 
+> Project made for **IEA**.
 ---
 
 ### [Corrclim](https://github.com/lucarammel/corrclim)
@@ -46,7 +48,7 @@ Comprehensive R toolbox for climatic correction of time series data and implemen
 - Implementation of new statistical models
 - Weather normalization for energy demand analysis
 
-> This is a private repo.
+> Project made for **EDF**. This is a private repo.
 
 ---
 
@@ -68,7 +70,7 @@ Robust database migration tool for seamlessly transferring data from MySQL to Po
 
 ## Fun Projects
 
-### 💕 [Dating Market](https://github.com/lucarammel/DatingMarket)
+### [Dating Market](https://github.com/lucarammel/DatingMarket)
 **`Python` `Simulation` `Market Analysis`**
 
 A playful simulation of dating app dynamics using market analysis principles.
@@ -83,4 +85,5 @@ A playful simulation of dating app dynamics using market analysis principles.
 ---
 
 
-**Core Focus Areas:** Energy Systems Modeling • Machine Learning • Data Engineering • Statistical Analysis • Market Simulation
+**Core Focus Areas:** 
+Energy Systems Modeling • Machine Learning • Data Engineering • Statistical Analysis • Market Simulation
