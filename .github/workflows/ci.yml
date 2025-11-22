@@ -27,12 +27,12 @@ jobs:
             mkdocs-material-
             
       - name: Install dependencies
-        run: pip install mkdocs-material
+        run: pip install zensical
         
       - name: Build MkDocs site
         run: |
           echo "Building MkDocs site..."
-          mkdocs build --verbose --clean
+          zensical build --verbose --clean
           echo "Build completed. Generated files:"
           ls -la ./site/
         
