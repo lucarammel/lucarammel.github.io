@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 <h1 align="center">Hi 👋, I'm Lucas Pereira</h1>
 
 
