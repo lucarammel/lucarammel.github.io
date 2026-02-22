@@ -1,5 +1,6 @@
 site_name: "Lucas Pereira Portfolio"
 site_description: "My portfolio !"
+site_url: https://lucarammel.github.io/
 site_dir: "public"
 theme:
   name: material
