@@ -36,12 +36,10 @@ jobs:
           echo "Building MkDocs site..."
           zensical build --clean
           echo "Build completed. Generated files:"
-          ls -la ./site/
+          ls -la ./public/
         
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./site
 
   deploy-github-pages:
     environment:
