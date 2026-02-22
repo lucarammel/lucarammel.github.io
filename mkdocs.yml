@@ -1,5 +1,5 @@
 site_name: "Lucas Pereira Portfolio"
-site_description: "My portfolio !"
+site_description: "Portfolio de Lucas Pereira - Data Scientist & Software Engineer"
 site_url: https://lucarammel.github.io/
 site_dir: "public"
 theme:
@@ -24,6 +24,7 @@ nav:
 
 plugins:
   - search
+  - social
 
 # Social media links with icons using MkDocs Material
 extra:
@@ -35,6 +36,7 @@ extra:
       link: https://github.com/lucarammel
       name: "GitHub"
   generator: false
+  social_image: images/lucas.png
 
 extra_css:
   - stylesheets/extra.css
