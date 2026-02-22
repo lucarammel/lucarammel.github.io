@@ -31,8 +31,8 @@
 
 **Consultant – Data Science** – *May 2023 – Present*  
 
-- Developed and maintained operational solutions (dashboards, APIs, web applications) supporting data science models, using Python, R, FastAPI, and Plotly.
-- Applied machine learning and statistical techniques in the energy sector: time series forecasting, clustering, and climate-adjusted modeling for energy demand and production.
+- Developed and maintained operational solutions (libraries, dashboards, APIs, web applications) supporting data science and optimisation models.
+- Applied machine learning, statistical and optimisation techniques in the energy sector: time series forecasting, clustering, climate-adjusted modeling for energy demand and production, optimisation models for market-design.
 - Designed and deployed microservices and applications using Docker, CI/CD pipelines (GitHub Actions, GitLab CI), and AWS S3 or PostgreSQL for data storage and access.
 - Implemented workflow orchestration through API-driven coordination and SLURM job scheduling on HPC clusters; integrated RabbitMQ for asynchronous task handling.
 - Delivered hands-on R training sessions, from programming fundamentals to deploying dashboards for electricity consumption and production data analysis.

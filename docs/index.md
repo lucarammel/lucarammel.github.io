@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Pereira</h1>
 
 
-<img src="../images/PEREIRA_Lucas.png" alt="My Photo" class="rounded-photo" />
+<img src="../images/lucas.png" alt="My Photo" class="rounded-photo" />
 
 
 * 📍  Paris
