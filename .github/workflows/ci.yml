@@ -40,6 +40,8 @@ jobs:
         
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
 
   deploy-github-pages:
     environment:
