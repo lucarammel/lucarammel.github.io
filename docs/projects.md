@@ -38,22 +38,6 @@ Advanced power demand disaggregation tool using deep learning methods to analyze
 
 ---
 
-### [Corrclim](https://github.com/lucarammel/corrclim)
-**`R` `Climate Data` `Time Series` `Statistical Modeling`**
-
-Comprehensive R toolbox for climatic correction of time series data and implementation of statistical models.
-
-**Key Features:**
-
-- Facilitates climatic correction of energy consumption data
-- Advanced time series analysis capabilities
-- Implementation of new statistical models
-- Weather normalization for energy demand analysis
-
-> Project made for **Edf**. This is a private repo.
-
----
-
 ## Data Engineering & Tools
 
 ### [MySQL2Postgre](https://github.com/lucarammel/MySQL2Postgre)
