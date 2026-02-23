@@ -379,14 +379,20 @@
 
 @media screen and (max-width: 76.1875em) {
     .md-nav__title {
-        background: linear-gradient(135deg, var(--md-primary-fg-color), var(--md-primary-fg-color--dark));
+        background: var(--white);
+        color: var(--black);
+    }
+
+    [data-md-color-scheme="slate"] .md-nav__title {
+        background: #1a1a1a;
+        color: var(--white);
     }
 }
 
 @media screen and (max-width: 768px) {
     .rounded-photo {
-        width: 180px;
-        height: 180px;
+        width: 240px;
+        height: 240px;
     }
 
     .md-typeset h1 {
@@ -400,8 +406,8 @@
 
 @media screen and (max-width: 480px) {
     .rounded-photo {
-        width: 150px;
-        height: 150px;
+        width: 240px;
+        height: 240px;
     }
 }
 
