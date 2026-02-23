@@ -3,10 +3,10 @@
    ============================================ */
 
 :root {
-    /* Primary purple/lilac color scheme */
-    --primary: #a855f7;
-    --primary-light: #c084fc;
-    --primary-dark: #9333ea;
+    /* Minimal black and white scheme */
+    --primary: #000000;
+    --primary-light: #333333;
+    --primary-dark: #000000;
 
     --white: #ffffff;
     --black: #000000;
@@ -53,19 +53,19 @@
    ============================================ */
 
 [data-md-color-scheme="slate"] {
-    --md-default-bg-color: #1a1d23;
-    --md-default-bg-color--light: #121418;
+    --md-default-bg-color: #000000;
+    --md-default-bg-color--light: #0a0a0a;
     --md-default-fg-color: rgba(255, 255, 255, 0.87);
     --md-default-fg-color--light: rgba(255, 255, 255, 0.54);
     --md-default-fg-color--lighter: rgba(255, 255, 255, 0.32);
 
-    --md-primary-fg-color: var(--primary-light);
-    --md-primary-fg-color--light: #d8b4fe;
-    --md-primary-fg-color--dark: var(--primary);
-    --md-accent-fg-color: var(--primary-light);
-    --md-typeset-a-color: var(--primary-light);
+    --md-primary-fg-color: #ffffff;
+    --md-primary-fg-color--light: #f5f5f5;
+    --md-primary-fg-color--dark: #cccccc;
+    --md-accent-fg-color: #ffffff;
+    --md-typeset-a-color: #ffffff;
 
-    --md-code-bg-color: #252830;
+    --md-code-bg-color: #1a1a1a;
     --md-code-fg-color: #e3e3e3;
 }
 
@@ -80,18 +80,19 @@
     height: 240px;
     border-radius: 50%;
     object-fit: cover;
-    box-shadow: 0 8px 24px rgba(168, 85, 247, 0.2);
-    border: 3px solid var(--primary);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border: 2px solid #e5e7eb;
     transition: all var(--transition-base);
 }
 
 .rounded-photo:hover {
-    transform: scale(1.03);
-    box-shadow: 0 12px 32px rgba(168, 85, 247, 0.3);
+    transform: scale(1.02);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
 }
 
 [data-md-color-scheme="slate"] .rounded-photo {
-    box-shadow: 0 8px 24px rgba(192, 132, 252, 0.25);
+    border-color: #333333;
+    box-shadow: 0 4px 12px rgba(255, 255, 255, 0.05);
 }
 
 /* ============================================
@@ -171,9 +172,23 @@
 .md-typeset p a[href*="rabbitmq"]:hover,
 .md-typeset p a[href*="pola.rs"]:hover,
 .md-typeset p a[href*="mongodb"]:hover {
-    background: rgba(168, 85, 247, 0.1);
+    background: rgba(0, 0, 0, 0.05);
     transform: translateY(-2px);
     box-shadow: var(--shadow-md);
+}
+
+[data-md-color-scheme="slate"] .md-typeset p a[href*="python"]:hover,
+[data-md-color-scheme="slate"] .md-typeset p a[href*="r-project"]:hover,
+[data-md-color-scheme="slate"] .md-typeset p a[href*="fastapi"]:hover,
+[data-md-color-scheme="slate"] .md-typeset p a[href*="docker"]:hover,
+[data-md-color-scheme="slate"] .md-typeset p a[href*="postgresql"]:hover,
+[data-md-color-scheme="slate"] .md-typeset p a[href*="aws"]:hover,
+[data-md-color-scheme="slate"] .md-typeset p a[href*="github"]:hover,
+[data-md-color-scheme="slate"] .md-typeset p a[href*="plotly"]:hover,
+[data-md-color-scheme="slate"] .md-typeset p a[href*="rabbitmq"]:hover,
+[data-md-color-scheme="slate"] .md-typeset p a[href*="pola.rs"]:hover,
+[data-md-color-scheme="slate"] .md-typeset p a[href*="mongodb"]:hover {
+    background: rgba(255, 255, 255, 0.1);
 }
 
 /* ============================================
@@ -244,12 +259,22 @@
    ============================================ */
 
 .md-header {
-    background: linear-gradient(135deg, var(--md-primary-fg-color), var(--md-primary-fg-color--dark));
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    background: var(--white);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid var(--gray-200);
+}
+
+[data-md-color-scheme="slate"] .md-header {
+    background: #1a1a1a;
+    border-bottom: 1px solid #333333;
 }
 
 .md-tabs {
-    background: linear-gradient(135deg, var(--md-primary-fg-color--dark), var(--md-primary-fg-color));
+    background: var(--white);
+}
+
+[data-md-color-scheme="slate"] .md-tabs {
+    background: #1a1a1a;
 }
 
 /* ============================================
@@ -332,13 +357,7 @@
    ============================================ */
 
 .md-top {
-    background: var(--md-primary-fg-color);
-    transition: all var(--transition-base);
-}
-
-.md-top:hover {
-    background: var(--md-primary-fg-color--light);
-    transform: scale(1.1);
+    display: none !important;
 }
 
 /* ============================================
