@@ -1,11 +1,13 @@
 ---
 title: Home
+description: Portfolio de Lucas Pereira, Data Scientist spécialisé en modélisation énergétique, machine learning et solutions data. Expérience chez Artelys, RTE et IEA.
+keywords: data science, machine learning, energy modeling, Python, R, Lucas Pereira, modélisation énergétique, IA, deep learning
 ---
 
 <h1 align="center">Hi 👋, I'm Lucas Pereira</h1>
 
 
-<img src="../images/lucas.png" alt="My Photo" class="rounded-photo" />
+<img src="../images/lucas.png" alt="Lucas Pereira - Data Scientist and Energy Modeling Engineer" class="rounded-photo" />
 
 
 * 📍  Paris

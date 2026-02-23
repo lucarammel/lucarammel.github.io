@@ -1,3 +1,8 @@
+---
+title: Coffee Spots - Lucas Pereira
+description: Découvrez ma carte interactive des meilleurs cafés que j'ai découverts lors de mes voyages.
+---
+
 # ☕ Coffee
 
 Here's a map of some great coffee spots I've discovered during my travels and daily life.

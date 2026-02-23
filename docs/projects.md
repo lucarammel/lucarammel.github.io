@@ -1,8 +1,12 @@
+---
+title: Projects - Lucas Pereira
+description: Découvrez mes projets en data science, modélisation énergétique et développement logiciel, incluant AntaresInvest, LoadModel et plus encore.
+---
+
 # Projects
 
 A showcase of my work in data science, energy modeling, and software development. Each project reflects my passion for solving complex problems at the intersection of data, technology, and sustainability.
 
----
 
 ## Energy Systems & Modeling
 

@@ -1,3 +1,7 @@
+---
+title: CV - Lucas Pereira
+description: Curriculum Vitae de Lucas Pereira - Data Scientist chez Artelys avec expérience en modélisation énergétique, machine learning et optimisation.
+---
 
 # My CV
 

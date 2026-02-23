@@ -1,23 +1,439 @@
-.rounded-photo {
-    display: block;
-    margin: 20px auto;
-    width: 240px;  /* Adjust size as needed */
-    height: 240px; /* Make sure width and height are equal for a perfect circle */
-    border-radius: 50%; /* Makes the image round */
-    object-fit: cover;  /* Ensures the image covers the rounded area */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0); /* Optional shadow */
-}
-
+/* ============================================
+   CUSTOM CSS VARIABLES & THEME
+   ============================================ */
 
 :root {
-    --green: #00A388;
-    --white: #ffffff;;
-    --black: #000000;
-  }
+    /* Primary purple/lilac color scheme */
+    --primary: #a855f7;
+    --primary-light: #c084fc;
+    --primary-dark: #9333ea;
 
-  [data-md-color-scheme="theme-light"] {
-    --md-default-bg-color--dark: var(--black);
-    --md-primary-fg-color: var(--green);
-    --md-typeset-a-color: var(--black);
-    --md-accent-fg-color: var(--green);
-  }
+    --white: #ffffff;
+    --black: #000000;
+    --gray-50: #f9fafb;
+    --gray-100: #f3f4f6;
+    --gray-200: #e5e7eb;
+    --gray-300: #d1d5db;
+    --gray-700: #374151;
+    --gray-800: #1f2937;
+    --gray-900: #111827;
+
+    /* Shadows */
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+    --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.1);
+
+    /* Transitions */
+    --transition-fast: 150ms ease;
+    --transition-base: 250ms ease;
+    --transition-slow: 400ms ease;
+}
+
+/* ============================================
+   LIGHT MODE THEME
+   ============================================ */
+
+[data-md-color-scheme="default"] {
+    --md-default-bg-color: var(--white);
+    --md-default-fg-color: var(--gray-900);
+    --md-primary-fg-color: var(--primary);
+    --md-primary-fg-color--light: var(--primary-light);
+    --md-primary-fg-color--dark: var(--primary-dark);
+    --md-accent-fg-color: var(--primary);
+    --md-typeset-a-color: var(--primary-dark);
+
+    /* Custom background */
+    --md-default-bg-color--light: var(--gray-50);
+    --md-code-bg-color: var(--gray-100);
+}
+
+/* ============================================
+   DARK MODE THEME
+   ============================================ */
+
+[data-md-color-scheme="slate"] {
+    --md-default-bg-color: #1a1d23;
+    --md-default-bg-color--light: #121418;
+    --md-default-fg-color: rgba(255, 255, 255, 0.87);
+    --md-default-fg-color--light: rgba(255, 255, 255, 0.54);
+    --md-default-fg-color--lighter: rgba(255, 255, 255, 0.32);
+
+    --md-primary-fg-color: var(--primary-light);
+    --md-primary-fg-color--light: #d8b4fe;
+    --md-primary-fg-color--dark: var(--primary);
+    --md-accent-fg-color: var(--primary-light);
+    --md-typeset-a-color: var(--primary-light);
+
+    --md-code-bg-color: #252830;
+    --md-code-fg-color: #e3e3e3;
+}
+
+/* ============================================
+   PROFILE PHOTO
+   ============================================ */
+
+.rounded-photo {
+    display: block;
+    margin: 30px auto;
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 8px 24px rgba(168, 85, 247, 0.2);
+    border: 3px solid var(--primary);
+    transition: all var(--transition-base);
+}
+
+.rounded-photo:hover {
+    transform: scale(1.03);
+    box-shadow: 0 12px 32px rgba(168, 85, 247, 0.3);
+}
+
+[data-md-color-scheme="slate"] .rounded-photo {
+    box-shadow: 0 8px 24px rgba(192, 132, 252, 0.25);
+}
+
+/* ============================================
+   TYPOGRAPHY ENHANCEMENTS
+   ============================================ */
+
+.md-typeset h1 {
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    color: var(--md-default-fg-color);
+}
+
+.md-typeset h2 {
+    font-weight: 600;
+    border-bottom: 2px solid var(--md-primary-fg-color);
+    padding-bottom: 0.5rem;
+    margin-top: 2rem;
+}
+
+.md-typeset h3 {
+    font-weight: 600;
+    color: var(--md-primary-fg-color);
+}
+
+/* ============================================
+   ICON LINKS & SOCIAL MEDIA
+   ============================================ */
+
+.md-typeset a img {
+    transition: all var(--transition-base);
+}
+
+.md-typeset a:hover img {
+    transform: translateY(-2px) scale(1.05);
+    opacity: 0.8;
+}
+
+/* Social icons in footer */
+.md-footer__link {
+    transition: all var(--transition-base);
+}
+
+.md-footer__link:hover {
+    transform: translateY(-2px);
+}
+
+/* ============================================
+   TECHNOLOGY ICONS GRID
+   ============================================ */
+
+.md-typeset p a[href*="python"],
+.md-typeset p a[href*="r-project"],
+.md-typeset p a[href*="fastapi"],
+.md-typeset p a[href*="docker"],
+.md-typeset p a[href*="postgresql"],
+.md-typeset p a[href*="aws"],
+.md-typeset p a[href*="github"],
+.md-typeset p a[href*="plotly"],
+.md-typeset p a[href*="rabbitmq"],
+.md-typeset p a[href*="pola.rs"],
+.md-typeset p a[href*="mongodb"] {
+    display: inline-block;
+    padding: 8px;
+    border-radius: 12px;
+    background: var(--md-code-bg-color);
+    transition: all var(--transition-base);
+}
+
+.md-typeset p a[href*="python"]:hover,
+.md-typeset p a[href*="r-project"]:hover,
+.md-typeset p a[href*="fastapi"]:hover,
+.md-typeset p a[href*="docker"]:hover,
+.md-typeset p a[href*="postgresql"]:hover,
+.md-typeset p a[href*="aws"]:hover,
+.md-typeset p a[href*="github"]:hover,
+.md-typeset p a[href*="plotly"]:hover,
+.md-typeset p a[href*="rabbitmq"]:hover,
+.md-typeset p a[href*="pola.rs"]:hover,
+.md-typeset p a[href*="mongodb"]:hover {
+    background: rgba(168, 85, 247, 0.1);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+
+/* ============================================
+   CARDS & PROJECT SECTIONS
+   ============================================ */
+
+.md-typeset hr {
+    border: none;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--md-primary-fg-color), transparent);
+    margin: 3rem 0;
+    opacity: 0.3;
+}
+
+/* Add card effect to project sections */
+.md-typeset h3 + p {
+    background: var(--md-code-bg-color);
+    padding: 12px 16px;
+    border-radius: 8px;
+    margin-top: -8px;
+    font-size: 0.9em;
+    border-left: 4px solid var(--md-primary-fg-color);
+    transition: all var(--transition-base);
+}
+
+.md-typeset h3 + p:hover {
+    transform: translateX(4px);
+    box-shadow: var(--shadow-md);
+}
+
+/* ============================================
+   LISTS & BULLET POINTS
+   ============================================ */
+
+.md-typeset ul li {
+    transition: all var(--transition-fast);
+}
+
+.md-typeset ul li:hover {
+    transform: translateX(4px);
+}
+
+.md-typeset ul li::marker {
+    color: var(--md-primary-fg-color);
+}
+
+/* ============================================
+   BLOCKQUOTES
+   ============================================ */
+
+.md-typeset blockquote {
+    border-left: 3px solid var(--md-primary-fg-color);
+    background: var(--md-code-bg-color);
+    padding: 0.5rem 1rem;
+    border-radius: 0 4px 4px 0;
+    margin: 1rem 0;
+    font-style: italic;
+    font-size: 0.9em;
+    color: var(--md-default-fg-color--light);
+}
+
+.md-typeset blockquote p {
+    margin: 0.5rem 0;
+}
+
+/* ============================================
+   NAVIGATION & HEADER
+   ============================================ */
+
+.md-header {
+    background: linear-gradient(135deg, var(--md-primary-fg-color), var(--md-primary-fg-color--dark));
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.md-tabs {
+    background: linear-gradient(135deg, var(--md-primary-fg-color--dark), var(--md-primary-fg-color));
+}
+
+/* ============================================
+   BUTTONS & INTERACTIVE ELEMENTS
+   ============================================ */
+
+.md-typeset .md-button {
+    border-radius: 8px;
+    transition: all var(--transition-base);
+    font-weight: 600;
+}
+
+.md-typeset .md-button:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-lg);
+}
+
+.md-typeset .md-button--primary {
+    background: linear-gradient(135deg, var(--md-primary-fg-color), var(--md-primary-fg-color--light));
+}
+
+/* ============================================
+   CODE BLOCKS
+   ============================================ */
+
+.md-typeset code {
+    border-radius: 4px;
+    padding: 2px 6px;
+    background: var(--md-code-bg-color);
+    font-size: 0.9em;
+    font-weight: 500;
+}
+
+.md-typeset pre > code {
+    border-radius: 8px;
+    box-shadow: var(--shadow-md);
+}
+
+/* ============================================
+   SCROLL ANIMATIONS
+   ============================================ */
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInScale {
+    from {
+        opacity: 0;
+        transform: scale(0.8);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+@keyframes slideInRight {
+    from {
+        opacity: 0;
+        transform: translateX(-30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+/* Subtle animations - removed for cleaner look */
+
+/* ============================================
+   BACK TO TOP BUTTON
+   ============================================ */
+
+.md-top {
+    background: var(--md-primary-fg-color);
+    transition: all var(--transition-base);
+}
+
+.md-top:hover {
+    background: var(--md-primary-fg-color--light);
+    transform: scale(1.1);
+}
+
+/* ============================================
+   SEARCH
+   ============================================ */
+
+.md-search__input {
+    border-radius: 8px;
+    transition: all var(--transition-base);
+}
+
+.md-search__input:focus {
+    box-shadow: 0 0 0 3px rgba(0, 163, 136, 0.2);
+}
+
+/* ============================================
+   RESPONSIVE DESIGN
+   ============================================ */
+
+@media screen and (max-width: 76.1875em) {
+    .md-nav__title {
+        background: linear-gradient(135deg, var(--md-primary-fg-color), var(--md-primary-fg-color--dark));
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .rounded-photo {
+        width: 180px;
+        height: 180px;
+    }
+
+    .md-typeset h1 {
+        font-size: 1.8rem;
+    }
+
+    .md-typeset h2 {
+        font-size: 1.4rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .rounded-photo {
+        width: 150px;
+        height: 150px;
+    }
+}
+
+/* ============================================
+   ACCESSIBILITY IMPROVEMENTS
+   ============================================ */
+
+/* Focus visible for keyboard navigation */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+    outline: 3px solid var(--md-primary-fg-color);
+    outline-offset: 2px;
+    border-radius: 4px;
+}
+
+/* Reduced motion for users who prefer it */
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+    .rounded-photo {
+        border-width: 6px;
+    }
+
+    .md-typeset h2 {
+        border-bottom-width: 3px;
+    }
+}
+
+/* ============================================
+   PRINT STYLES
+   ============================================ */
+
+@media print {
+    .rounded-photo {
+        box-shadow: none;
+        border: 2px solid #000;
+    }
+
+    .md-header,
+    .md-footer,
+    .md-sidebar {
+        display: none;
+    }
+}
