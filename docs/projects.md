@@ -44,7 +44,7 @@ Advanced power demand disaggregation tool using deep learning methods to analyze
 
 ## Data Engineering & Tools
 
-### [MySQL2Postgre](https://github.com/lucarammel/MySQL2Postgre)
+### [mysql2pg](https://github.com/lucarammel/MySQL2Postgre)
 **`Python` `Database Migration` `PostgreSQL` `MySQL`**
 
 Robust database migration tool for seamlessly transferring data from MySQL to PostgreSQL.
