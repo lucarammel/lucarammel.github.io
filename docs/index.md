@@ -11,7 +11,7 @@ keywords: data science, machine learning, energy modeling, Python, R, Lucas Pere
 
 
 * 📍  Paris
-* 💻  **Software Enginerr & Data Scientist** with a strong background in **modeling**, **analytics**, and **decision-support tools** for the energy sector
+* 💻  **Software Engineer & Data Scientist** with a strong background in **modeling**, **analytics**, and **decision-support tools** for the energy sector
 * 🔧  Experienced in designing **end-to-end data solutions**, from forecasting and simulation to deployment and automation
 * 💡  Proven track record in translating complex systems into actionable insights for **market design** and **energy planning**
 * 🌱  Motivated by impactful challenges at the intersection of data, systems, and sustainability, especially in **ClimateTech**.
