@@ -10,6 +10,22 @@ A showcase of my work in data science, energy modeling, and software development
 
 ## Energy Systems & Modeling
 
+### [ATLAS](https://github.com/rte-france/ATLAS)
+**`Python` `Agent-Based Simulation` `Electricity Markets` `Optimisation` `OR-Tools`**
+
+Open-source agent-based simulator of electricity markets, modelling the sequential decisions of market participants from order formulation to market clearing and portfolio optimisation.
+
+**Key Features:**
+
+- **Day-Ahead**: order generation, clearing across interconnected areas under ATC or flow-based constraints, portfolio optimisation over thermal, hydro, storage, wind, solar and load
+- **Intraday**: scenario-based price forecasting, re-optimisation at the execution date, and translation of the revised programme into buy/sell orders against the day-ahead position
+- **Reserves**: FCR, aFRR, mFRR and RR procurement and activation, arbitrating energy sales against capacity held for frequency regulation
+- Modules chained into YAML workflows, run from the CLI or the Python API
+
+> Project made for **Rte**, developed by **Artelys**.
+
+---
+
 ### [AntaresInvest](https://github.com/lucarammel/antaresinvest)
 **`R` `Electricity Systems` `Market Design` `Investment Modeling`**
 
