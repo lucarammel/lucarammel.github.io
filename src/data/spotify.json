@@ -1,0 +1,625 @@
+{
+  "generatedAt": "2026-07-28T19:01:51.423Z",
+  "profile": {
+    "name": "Lucarammel",
+    "url": "https://open.spotify.com/user/1112759426"
+  },
+  "ranges": {
+    "short_term": {
+      "artists": [
+        {
+          "id": "0qG2Tf6fJaCuWKGz1IitKa",
+          "name": "Moriarty",
+          "image": "https://i.scdn.co/image/ab676161000051742e3a8a912c1e331fbd13b64a",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa"
+        },
+        {
+          "id": "5rgdw8NVhnxWL8Poo6HsiX",
+          "name": "Biga*Ranx",
+          "image": "https://i.scdn.co/image/ab6761610000517400f03c4abff433dd5215f171",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/5rgdw8NVhnxWL8Poo6HsiX"
+        },
+        {
+          "id": "62Jwsvqi7hW8TR9rAcfBXY",
+          "name": "Grandbrothers",
+          "image": "https://i.scdn.co/image/ab676161000051743608e4c8894908499146d5f3",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+        },
+        {
+          "id": "3YBJLs7RqR0aPGBgU27nDh",
+          "name": "Werenoi",
+          "image": "https://i.scdn.co/image/ab676161000051746296c04d12f719f7ea4fe566",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "id": "0LKAV3zJ8a8AIGnyc5OvfB",
+          "name": "SDM",
+          "image": "https://i.scdn.co/image/ab67616100005174cef13995942c7a300df73050",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        },
+        {
+          "id": "2UwqpfQtNuhBwviIC0f2ie",
+          "name": "Damso",
+          "image": "https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        },
+        {
+          "id": "0oA0cg7ajEwV0EXKCAlQ63",
+          "name": "Pépite",
+          "image": "https://i.scdn.co/image/ab676161000051741e0da0f6ec931285b3185161",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63"
+        },
+        {
+          "id": "4ueh4hmRvt62k4BgP8dIS0",
+          "name": "Adèle Castillon",
+          "image": "https://i.scdn.co/image/ab67616100005174096dcea94d0736f13bc641ac",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "id": "5yOvAmpIR7hVxiS6Ls5DPO",
+          "name": "OMAH LAY",
+          "image": "https://i.scdn.co/image/ab6761610000517435ba3ee6067196268c5528cb",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "id": "1lAvOODEAbUI5b51WRBbdx",
+          "name": "Darci",
+          "image": "https://i.scdn.co/image/ab6761610000517420c2518bdcdeb36f426e0566",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx"
+        },
+        {
+          "id": "2f9PTWJfMMDTAFZcvHy1Z5",
+          "name": "OVERWERK",
+          "image": "https://i.scdn.co/image/ab676161000051747db44272ab1a6c467f622691",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/2f9PTWJfMMDTAFZcvHy1Z5"
+        },
+        {
+          "id": "3ssUeoVViu1S2RGl1hLmUh",
+          "name": "Al'Tarba",
+          "image": "https://i.scdn.co/image/ab67616100005174fe51893eebae998d43828495",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/3ssUeoVViu1S2RGl1hLmUh"
+        }
+      ],
+      "tracks": [
+        {
+          "id": "4cSHMHSTRhetAtT1iDP2zO",
+          "name": "Été avec toi",
+          "artists": [
+            "Adèle Castillon"
+          ],
+          "album": "Été avec toi",
+          "image": "https://i.scdn.co/image/ab67616d00001e0243db3f10cf8ceb525ef193ac",
+          "durationMs": 187320,
+          "url": "https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO"
+        },
+        {
+          "id": "3TVUW7bJJWDOonkVCZxfLV",
+          "name": "Pas bête",
+          "artists": [
+            "Beendo Z"
+          ],
+          "album": "L'Élu",
+          "image": "https://i.scdn.co/image/ab67616d00001e02f31a63df8e43bc2feef2a585",
+          "durationMs": 143525,
+          "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
+        },
+        {
+          "id": "6dnnAyesruZaUjJwr3yVL6",
+          "name": "Elle & Moi",
+          "artists": [
+            "Art-X",
+            "Biga*Ranx",
+            "LUIZA",
+            "Pulche Le Douce"
+          ],
+          "album": "Elle & Moi",
+          "image": "https://i.scdn.co/image/ab67616d00001e024f4d474443f032ea39d8d1ff",
+          "durationMs": 188333,
+          "url": "https://open.spotify.com/track/6dnnAyesruZaUjJwr3yVL6"
+        },
+        {
+          "id": "7LSQYhyOhooiBpDva8AJaC",
+          "name": "Long Live the (D)Evil",
+          "artists": [
+            "Moriarty"
+          ],
+          "album": "Epitaph",
+          "image": "https://i.scdn.co/image/ab67616d00001e029c1f3830786cd73066016792",
+          "durationMs": 236910,
+          "url": "https://open.spotify.com/track/7LSQYhyOhooiBpDva8AJaC"
+        },
+        {
+          "id": "4777sGsOdoM89vPH3CVoLe",
+          "name": "Mayor Que Yo 3",
+          "artists": [
+            "Luny Tunes",
+            "Daddy Yankee",
+            "Don Omar",
+            "Wisin & Yandel"
+          ],
+          "album": "Mayor Que Yo 3",
+          "image": "https://i.scdn.co/image/ab67616d00001e0293879cdf4154b309294444dc",
+          "durationMs": 304746,
+          "url": "https://open.spotify.com/track/4777sGsOdoM89vPH3CVoLe"
+        },
+        {
+          "id": "5L76wuAiLp3sOTTipca1ux",
+          "name": "Sur la piste",
+          "artists": [
+            "Eva"
+          ],
+          "album": "SUMMERGIRL",
+          "image": "https://i.scdn.co/image/ab67616d00001e02e035df258c2bb085ce16d808",
+          "durationMs": 172725,
+          "url": "https://open.spotify.com/track/5L76wuAiLp3sOTTipca1ux"
+        },
+        {
+          "id": "71ZTMuiN83ayvXuuhk1l2X",
+          "name": "prouve moi que tu m'adores",
+          "artists": [
+            "arøne"
+          ],
+          "album": "prouve moi que tu m'adores",
+          "image": "https://i.scdn.co/image/ab67616d00001e023c07b7c49291f3f285932fc5",
+          "durationMs": 178364,
+          "url": "https://open.spotify.com/track/71ZTMuiN83ayvXuuhk1l2X"
+        },
+        {
+          "id": "7wFxXTPnZOQ4z0AhPddq5n",
+          "name": "Dispense",
+          "artists": [
+            "Werenoi"
+          ],
+          "album": "Diamant Noir",
+          "image": "https://i.scdn.co/image/ab67616d00001e02f4aec0b976368624d9281ace",
+          "durationMs": 165581,
+          "url": "https://open.spotify.com/track/7wFxXTPnZOQ4z0AhPddq5n"
+        },
+        {
+          "id": "4ffqxU54Ll4YRz5NVBe77w",
+          "name": "RUINART",
+          "artists": [
+            "R2"
+          ],
+          "album": "7/7 : 24/24",
+          "image": "https://i.scdn.co/image/ab67616d00001e0221fc8957d575e1ed7ab42594",
+          "durationMs": 174493,
+          "url": "https://open.spotify.com/track/4ffqxU54Ll4YRz5NVBe77w"
+        },
+        {
+          "id": "50Xum0JtI9K1xsBDr2UoZM",
+          "name": "Where Else",
+          "artists": [
+            "Grandbrothers"
+          ],
+          "album": "Elsewhere",
+          "image": "https://i.scdn.co/image/ab67616d00001e0284fd64fea094ccd0183a8390",
+          "durationMs": 341542,
+          "url": "https://open.spotify.com/track/50Xum0JtI9K1xsBDr2UoZM"
+        }
+      ]
+    },
+    "medium_term": {
+      "artists": [
+        {
+          "id": "4yPFe6ZiSjH5mgjDwiYZgc",
+          "name": "RnBoi",
+          "image": "https://i.scdn.co/image/ab676161000051742c088709b2277194a0e5f144",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "id": "4azuvIO6w5uQmthX95jfL8",
+          "name": "arøne",
+          "image": "https://i.scdn.co/image/ab6761610000517451b8e4fc1a0151ce42c1f9a4",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8"
+        },
+        {
+          "id": "5yOvAmpIR7hVxiS6Ls5DPO",
+          "name": "OMAH LAY",
+          "image": "https://i.scdn.co/image/ab6761610000517435ba3ee6067196268c5528cb",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "id": "62Jwsvqi7hW8TR9rAcfBXY",
+          "name": "Grandbrothers",
+          "image": "https://i.scdn.co/image/ab676161000051743608e4c8894908499146d5f3",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+        },
+        {
+          "id": "3YBJLs7RqR0aPGBgU27nDh",
+          "name": "Werenoi",
+          "image": "https://i.scdn.co/image/ab676161000051746296c04d12f719f7ea4fe566",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "id": "7rz6ZZErn5YFDteXKhyf3g",
+          "name": "disiz",
+          "image": "https://i.scdn.co/image/ab67616100005174df9676464010e1589d65629c",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        },
+        {
+          "id": "73mSg0dykFyhvU96tb5xQV",
+          "name": "Hermanos Gutiérrez",
+          "image": "https://i.scdn.co/image/ab67616100005174de8a185ee5eef8c0e73fe3e5",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        },
+        {
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "image": "https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "id": "0TGeOStDbxqVi8UJdBQsEx",
+          "name": "Zélie",
+          "image": "https://i.scdn.co/image/ab676161000051743fbdc42549d8a9af1cb6f7a6",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+        },
+        {
+          "id": "2UwqpfQtNuhBwviIC0f2ie",
+          "name": "Damso",
+          "image": "https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        },
+        {
+          "id": "0XtVN1QaB7vYRpw4qEIRt0",
+          "name": "Ours Samplus",
+          "image": "https://i.scdn.co/image/ab67616100005174b27ce5d7a9e85a8121c50b09",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0"
+        },
+        {
+          "id": "790FomKkXshlbRYZFtlgla",
+          "name": "KAROL G",
+          "image": "https://i.scdn.co/image/ab6761610000517466041ce9eb4497057cbc3496",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "tracks": [
+        {
+          "id": "3TVUW7bJJWDOonkVCZxfLV",
+          "name": "Pas bête",
+          "artists": [
+            "Beendo Z"
+          ],
+          "album": "L'Élu",
+          "image": "https://i.scdn.co/image/ab67616d00001e02f31a63df8e43bc2feef2a585",
+          "durationMs": 143525,
+          "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
+        },
+        {
+          "id": "4ffqxU54Ll4YRz5NVBe77w",
+          "name": "RUINART",
+          "artists": [
+            "R2"
+          ],
+          "album": "7/7 : 24/24",
+          "image": "https://i.scdn.co/image/ab67616d00001e0221fc8957d575e1ed7ab42594",
+          "durationMs": 174493,
+          "url": "https://open.spotify.com/track/4ffqxU54Ll4YRz5NVBe77w"
+        },
+        {
+          "id": "0898mJTnW06D7PZyduQMvO",
+          "name": "Soso",
+          "artists": [
+            "Kabusa Oriental Choir"
+          ],
+          "album": "Soso",
+          "image": "https://i.scdn.co/image/ab67616d00001e02bc5664bb945c3088f915f195",
+          "durationMs": 130285,
+          "url": "https://open.spotify.com/track/0898mJTnW06D7PZyduQMvO"
+        },
+        {
+          "id": "4cSHMHSTRhetAtT1iDP2zO",
+          "name": "Été avec toi",
+          "artists": [
+            "Adèle Castillon"
+          ],
+          "album": "Été avec toi",
+          "image": "https://i.scdn.co/image/ab67616d00001e0243db3f10cf8ceb525ef193ac",
+          "durationMs": 187320,
+          "url": "https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO"
+        },
+        {
+          "id": "05L1CThPf0lf1bNLECyleI",
+          "name": "MON BÉBÉ (feat. Ayra Starr)",
+          "artists": [
+            "RnBoi",
+            "Ayra Starr"
+          ],
+          "album": "My Eyes Only - Flashback",
+          "image": "https://i.scdn.co/image/ab67616d00001e02628e0c90703f88e9bc55c191",
+          "durationMs": 137390,
+          "url": "https://open.spotify.com/track/05L1CThPf0lf1bNLECyleI"
+        },
+        {
+          "id": "7wFxXTPnZOQ4z0AhPddq5n",
+          "name": "Dispense",
+          "artists": [
+            "Werenoi"
+          ],
+          "album": "Diamant Noir",
+          "image": "https://i.scdn.co/image/ab67616d00001e02f4aec0b976368624d9281ace",
+          "durationMs": 165581,
+          "url": "https://open.spotify.com/track/7wFxXTPnZOQ4z0AhPddq5n"
+        },
+        {
+          "id": "08EMIFkZhPTnfPSHvYgDlJ",
+          "name": "OUI",
+          "artists": [
+            "RnBoi"
+          ],
+          "album": "My Eyes Only - Flashback",
+          "image": "https://i.scdn.co/image/ab67616d00001e02628e0c90703f88e9bc55c191",
+          "durationMs": 160975,
+          "url": "https://open.spotify.com/track/08EMIFkZhPTnfPSHvYgDlJ"
+        },
+        {
+          "id": "4OMLC6CWEqwCvfv289QNlw",
+          "name": "C63",
+          "artists": [
+            "Werenoi"
+          ],
+          "album": "Pyramide 2",
+          "image": "https://i.scdn.co/image/ab67616d00001e025e69d7a9159306d54ee54fd2",
+          "durationMs": 209000,
+          "url": "https://open.spotify.com/track/4OMLC6CWEqwCvfv289QNlw"
+        },
+        {
+          "id": "1VBKQJ5AVNKROv0WJ2h4ZK",
+          "name": "LES DIAMANTS DE BOKASSA",
+          "artists": [
+            "Ninho",
+            "Tiakola"
+          ],
+          "album": "M.I.L.S 4",
+          "image": "https://i.scdn.co/image/ab67616d00001e022de70ac4bbe26006d290b374",
+          "durationMs": 152282,
+          "url": "https://open.spotify.com/track/1VBKQJ5AVNKROv0WJ2h4ZK"
+        },
+        {
+          "id": "5t1LPk2QiG9O7JdL0oAsou",
+          "name": "AVEC MOI",
+          "artists": [
+            "RnBoi",
+            "Nono La Grinta"
+          ],
+          "album": "My Eyes Only - Flashback",
+          "image": "https://i.scdn.co/image/ab67616d00001e02628e0c90703f88e9bc55c191",
+          "durationMs": 182000,
+          "url": "https://open.spotify.com/track/5t1LPk2QiG9O7JdL0oAsou"
+        }
+      ]
+    },
+    "long_term": {
+      "artists": [
+        {
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "image": "https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "id": "790FomKkXshlbRYZFtlgla",
+          "name": "KAROL G",
+          "image": "https://i.scdn.co/image/ab6761610000517466041ce9eb4497057cbc3496",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "id": "3YBJLs7RqR0aPGBgU27nDh",
+          "name": "Werenoi",
+          "image": "https://i.scdn.co/image/ab676161000051746296c04d12f719f7ea4fe566",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "id": "2UwqpfQtNuhBwviIC0f2ie",
+          "name": "Damso",
+          "image": "https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        },
+        {
+          "id": "1DxLCyH42yaHKGK3cl5bvG",
+          "name": "Maria Becerra",
+          "image": "https://i.scdn.co/image/ab676161000051747071ddcde7ab1ef2c2b34442",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "id": "3CnCGFxXbOA8bAK54jR8js",
+          "name": "Vald",
+          "image": "https://i.scdn.co/image/ab676161000051747f424b7449ae0a21541a370d",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        },
+        {
+          "id": "3ZpEKRjHaHANcpk10u6Ntq",
+          "name": "Ayra Starr",
+          "image": "https://i.scdn.co/image/ab676161000051748bfd832e0547c4acabe6e67c",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "id": "5yOvAmpIR7hVxiS6Ls5DPO",
+          "name": "OMAH LAY",
+          "image": "https://i.scdn.co/image/ab6761610000517435ba3ee6067196268c5528cb",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "id": "1U1el3k54VvEUzo3ybLPlM",
+          "name": "Kali Uchis",
+          "image": "https://i.scdn.co/image/ab67616100005174deac5367816c7ab1f607e89a",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "J Balvin",
+          "image": "https://i.scdn.co/image/ab676161000051740405b03342c2e56751b9923d",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "id": "62Jwsvqi7hW8TR9rAcfBXY",
+          "name": "Grandbrothers",
+          "image": "https://i.scdn.co/image/ab676161000051743608e4c8894908499146d5f3",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+        },
+        {
+          "id": "73mSg0dykFyhvU96tb5xQV",
+          "name": "Hermanos Gutiérrez",
+          "image": "https://i.scdn.co/image/ab67616100005174de8a185ee5eef8c0e73fe3e5",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "tracks": [
+        {
+          "id": "7gYh5gtrTe88mGvIieU1mk",
+          "name": "Demons on the Side of My Bed",
+          "artists": [
+            "Teflon Sega"
+          ],
+          "album": "Demons on the Side of My Bed",
+          "image": "https://i.scdn.co/image/ab67616d00001e02aa7a054909cca8532db839f2",
+          "durationMs": 226666,
+          "url": "https://open.spotify.com/track/7gYh5gtrTe88mGvIieU1mk"
+        },
+        {
+          "id": "3TVUW7bJJWDOonkVCZxfLV",
+          "name": "Pas bête",
+          "artists": [
+            "Beendo Z"
+          ],
+          "album": "L'Élu",
+          "image": "https://i.scdn.co/image/ab67616d00001e02f31a63df8e43bc2feef2a585",
+          "durationMs": 143525,
+          "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
+        },
+        {
+          "id": "4OMLC6CWEqwCvfv289QNlw",
+          "name": "C63",
+          "artists": [
+            "Werenoi"
+          ],
+          "album": "Pyramide 2",
+          "image": "https://i.scdn.co/image/ab67616d00001e025e69d7a9159306d54ee54fd2",
+          "durationMs": 209000,
+          "url": "https://open.spotify.com/track/4OMLC6CWEqwCvfv289QNlw"
+        },
+        {
+          "id": "7wFxXTPnZOQ4z0AhPddq5n",
+          "name": "Dispense",
+          "artists": [
+            "Werenoi"
+          ],
+          "album": "Diamant Noir",
+          "image": "https://i.scdn.co/image/ab67616d00001e02f4aec0b976368624d9281ace",
+          "durationMs": 165581,
+          "url": "https://open.spotify.com/track/7wFxXTPnZOQ4z0AhPddq5n"
+        },
+        {
+          "id": "4ffqxU54Ll4YRz5NVBe77w",
+          "name": "RUINART",
+          "artists": [
+            "R2"
+          ],
+          "album": "7/7 : 24/24",
+          "image": "https://i.scdn.co/image/ab67616d00001e0221fc8957d575e1ed7ab42594",
+          "durationMs": 174493,
+          "url": "https://open.spotify.com/track/4ffqxU54Ll4YRz5NVBe77w"
+        },
+        {
+          "id": "0Ki0Jp7XVvBGXgjp6SUgp3",
+          "name": "Finalement",
+          "artists": [
+            "Bekar",
+            "SDM"
+          ],
+          "album": "Plus fort.",
+          "image": "https://i.scdn.co/image/ab67616d00001e0228ef7bd04272042991a8d4b8",
+          "durationMs": 204986,
+          "url": "https://open.spotify.com/track/0Ki0Jp7XVvBGXgjp6SUgp3"
+        },
+        {
+          "id": "7JJOUjiewemzvDXbq0LcBY",
+          "name": "On My Own - Skeler Vision",
+          "artists": [
+            "Darci",
+            "Skeler"
+          ],
+          "album": "On My Own (Skeler Vision)",
+          "image": "https://i.scdn.co/image/ab67616d00001e020a8d9ad3743b1113b5c91c3a",
+          "durationMs": 199612,
+          "url": "https://open.spotify.com/track/7JJOUjiewemzvDXbq0LcBY"
+        },
+        {
+          "id": "6wDig9zSE2qpDbw1W3qqIX",
+          "name": "MASNA REMIX",
+          "artists": [
+            "FMK",
+            "Emilia",
+            "Nicki Nicole",
+            "Tiago PZK"
+          ],
+          "album": "MASNA REMIX",
+          "image": "https://i.scdn.co/image/ab67616d00001e0235e7d00cae46ab634c792b5b",
+          "durationMs": 248000,
+          "url": "https://open.spotify.com/track/6wDig9zSE2qpDbw1W3qqIX"
+        },
+        {
+          "id": "5SaCjts8LJfDR8aHyFX2id",
+          "name": "DARKNET",
+          "artists": [
+            "Vald"
+          ],
+          "album": "PANDEMONIUM",
+          "image": "https://i.scdn.co/image/ab67616d00001e02f4a58aba8e16ef0c648e92e0",
+          "durationMs": 175906,
+          "url": "https://open.spotify.com/track/5SaCjts8LJfDR8aHyFX2id"
+        },
+        {
+          "id": "52wspfpsfPcsw7pw8dnQyM",
+          "name": "BOBO",
+          "artists": [
+            "Mariah Angeliq",
+            "Bad Gyal",
+            "Maria Becerra"
+          ],
+          "album": "BOBO",
+          "image": "https://i.scdn.co/image/ab67616d00001e02099ca5d319ddd1423bd7ddf8",
+          "durationMs": 224760,
+          "url": "https://open.spotify.com/track/52wspfpsfPcsw7pw8dnQyM"
+        }
+      ]
+    }
+  }
+}
