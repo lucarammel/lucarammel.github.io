@@ -8,7 +8,9 @@
     "build": "tsc -b && vite build",
     "preview": "vite preview",
     "lint": "tsc -b --noEmit",
-    "coffee:sync": "python3 scripts/build_coffee_data.py"
+    "coffee:sync": "python3 scripts/build_coffee_data.py",
+    "spotify:sync": "node scripts/fetch_spotify.mjs",
+    "spotify:auth": "node scripts/spotify_auth.mjs"
   },
   "dependencies": {
     "leaflet": "^1.9.4",

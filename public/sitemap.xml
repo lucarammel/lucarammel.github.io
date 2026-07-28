@@ -16,4 +16,8 @@
     <loc>https://lucarammel.github.io/coffee</loc>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://lucarammel.github.io/music</loc>
+    <priority>0.5</priority>
+  </url>
 </urlset>

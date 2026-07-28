@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+  # Refreshes the Spotify listening data once a day without a code change.
+  schedule:
+    - cron: "0 5 * * *"
   workflow_dispatch:
 
 permissions:
@@ -31,6 +34,15 @@ jobs:
 
       - name: Typecheck
         run: npm run lint
+
+      # Skipped gracefully when the secrets are absent (e.g. on forks): the
+      # committed snapshot in src/data/spotify.json is used instead.
+      - name: Refresh Spotify data
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: npm run spotify:sync
 
       - name: Build
         run: npm run build

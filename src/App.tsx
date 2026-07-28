@@ -6,6 +6,7 @@ import { Header } from "./components/Header";
 import Home from "./pages/Home";
 import Projects from "./pages/Projects";
 import CV from "./pages/CV";
+import Music from "./pages/Music";
 
 // Leaflet and the 106-spot dataset only load when the page is actually visited.
 const Coffee = lazy(() => import("./pages/Coffee"));
@@ -15,6 +16,7 @@ const titles: Record<string, string> = {
   "/projects": "Projects — Lucas Pereira",
   "/cv": "CV — Lucas Pereira",
   "/coffee": "Coffee — Lucas Pereira",
+  "/music": "Music — Lucas Pereira",
 };
 
 function RouteEffects() {
@@ -41,6 +43,7 @@ export default function App() {
             <Route path="/projects" element={<Projects />} />
             <Route path="/cv" element={<CV />} />
             <Route path="/coffee" element={<Coffee />} />
+            <Route path="/music" element={<Music />} />
             <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>
         </Suspense>
