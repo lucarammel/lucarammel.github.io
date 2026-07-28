@@ -19,12 +19,13 @@ export const profile = {
   location: "Paris",
   photo: "/lucas.png",
   tagline:
-    "Energy systems modelling, analytics and decision-support tools — from forecasting and simulation to deployment and automation.",
+    "Building data solutions for complex physical systems — energy, weather and climate risk — from forecasting and simulation through to the tools people actually decide with.",
   highlights: [
-    "**Software Engineer & Data Scientist** with a strong background in **modeling**, **analytics**, and **decision-support tools** for the energy sector",
+    "**Software Engineer & Data Scientist** with a strong background in **modeling**, **analytics**, and **decision-support tools** for the energy and climate sectors",
     "Experienced in designing **end-to-end data solutions**, from forecasting and simulation to deployment and automation",
-    "Proven track record in translating complex systems into actionable insights for **market design** and **energy planning**",
-    "Motivated by impactful challenges at the intersection of data, systems, and sustainability, especially in **ClimateTech**",
+    "At ease across the whole data chain — **ingestion and typed pipelines**, storage, **APIs** and dashboards that put models in front of the people who use them",
+    "Proven track record in translating complex systems into actionable insights, for **climate-adjusted modelling**, **energy planning** and **market design** alike",
+    "Motivated by impactful challenges at the intersection of data, systems, and **climate resilience**",
     "I have a strong interest for software development and discovering new tools, always curious about new technologies coming out!",
   ],
   currentRole: {
