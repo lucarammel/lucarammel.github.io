@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-  # Refreshes the Spotify listening data once a day without a code change.
+  # Refreshes the Spotify listening data and the coffee map once a day without a code change.
   schedule:
     - cron: "0 5 * * *"
   workflow_dispatch:
@@ -29,6 +29,11 @@ jobs:
           node-version: 22
           cache: npm
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
       - name: Install dependencies
         run: npm ci
 
@@ -43,6 +48,13 @@ jobs:
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: npm run spotify:sync
+
+      # Pulls the public Google My Maps list. Non-fatal: a Maps/Nominatim
+      # hiccup falls back to the committed snapshot in src/data/coffee.json
+      # rather than blocking the deploy.
+      - name: Refresh coffee map data
+        continue-on-error: true
+        run: npm run coffee:sync
 
       - name: Build
         run: npm run build

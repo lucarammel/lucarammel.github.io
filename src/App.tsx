@@ -1,6 +1,7 @@
-import { Suspense, lazy, useEffect } from "react";
+import { Suspense, lazy, useEffect, useState, type ReactNode } from "react";
 import { Navigate, Route, Routes, useLocation } from "react-router-dom";
 
+import { CommandPalette } from "./components/CommandPalette";
 import { Footer } from "./components/Footer";
 import { Header } from "./components/Header";
 import Home from "./pages/Home";
@@ -30,22 +31,37 @@ function RouteEffects() {
   return null;
 }
 
+// Remounting on pathname change replays the CSS fade-in defined in index.css.
+function PageTransition({ children }: { children: ReactNode }) {
+  const { pathname } = useLocation();
+  return (
+    <div key={pathname} className="page-enter">
+      {children}
+    </div>
+  );
+}
+
 export default function App() {
+  const [paletteOpen, setPaletteOpen] = useState(false);
+
   return (
     <div className="flex min-h-screen flex-col">
       <RouteEffects />
-      <Header />
+      <Header onOpenSearch={() => setPaletteOpen(true)} />
+      <CommandPalette open={paletteOpen} onOpenChange={setPaletteOpen} />
 
       <main className="flex-1">
         <Suspense fallback={<div className="mx-auto max-w-4xl px-5 py-16 text-sm text-ink-muted dark:text-night-muted">Loading…</div>}>
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/projects" element={<Projects />} />
-            <Route path="/cv" element={<CV />} />
-            <Route path="/coffee" element={<Coffee />} />
-            <Route path="/music" element={<Music />} />
-            <Route path="*" element={<Navigate to="/" replace />} />
-          </Routes>
+          <PageTransition>
+            <Routes>
+              <Route path="/" element={<Home />} />
+              <Route path="/projects" element={<Projects />} />
+              <Route path="/cv" element={<CV />} />
+              <Route path="/coffee" element={<Coffee />} />
+              <Route path="/music" element={<Music />} />
+              <Route path="*" element={<Navigate to="/" replace />} />
+            </Routes>
+          </PageTransition>
         </Suspense>
       </main>
 

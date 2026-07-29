@@ -2,10 +2,11 @@ import { Link } from "react-router-dom";
 import { ArrowRight, MapPin } from "lucide-react";
 
 import { RichText } from "../components/RichText";
-import { profile, tools } from "../data/profile";
+import { profile, socials, tools } from "../data/profile";
 
 export default function Home() {
   const { currentRole } = profile;
+  const email = socials.find((s) => s.icon === "mail")!.href;
 
   return (
     <div className="mx-auto max-w-4xl px-5 py-14">
@@ -105,7 +106,7 @@ export default function Home() {
         </p>
         <div className="mt-4 flex flex-wrap gap-3">
           <a
-            href="mailto:lucaspereira0497@gmail.com"
+            href={email}
             className="inline-flex items-center gap-2 rounded-lg bg-ink px-4 py-2 text-sm font-medium text-paper transition hover:-translate-y-0.5 hover:shadow-lg dark:bg-white dark:text-black"
           >
             Get in touch <ArrowRight size={15} />

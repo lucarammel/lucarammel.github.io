@@ -42,8 +42,10 @@ npm run coffee:sync    # python3 scripts/build_coffee_data.py
 ```
 
 The script pulls the map's KML export and reverse-geocodes each pin through
-Nominatim (~1 request/second, so it takes about two minutes). Add places in
-Google My Maps, rerun the script, commit the JSON.
+Nominatim (~1 request/second, so it takes about two minutes). It also runs in CI
+on every deploy plus a daily cron, same as the Spotify sync, so adding a place in
+Google My Maps is enough — no local run or commit required. Use the command
+above only to preview changes locally before they land in CI.
 
 The map itself is plain Leaflet with `leaflet.markercluster`, driven imperatively
 from `components/CoffeeMap.tsx`. Basemap is CARTO Positron, inverted in CSS for

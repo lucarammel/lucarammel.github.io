@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { NavLink } from "react-router-dom";
-import { Menu, X } from "lucide-react";
+import { Menu, Search, X } from "lucide-react";
 
 import { ThemeToggle } from "./ThemeToggle";
 
@@ -20,7 +20,11 @@ const linkClass = ({ isActive }: { isActive: boolean }) =>
       : "text-ink-muted hover:text-ink dark:text-night-muted dark:hover:text-white",
   ].join(" ");
 
-export function Header() {
+type HeaderProps = {
+  onOpenSearch: () => void;
+};
+
+export function Header({ onOpenSearch }: HeaderProps) {
   const [open, setOpen] = useState(false);
 
   // Lock scrolling while the mobile sheet is open.
@@ -46,6 +50,16 @@ export function Header() {
               </NavLink>
             ))}
           </nav>
+
+          <button
+            type="button"
+            onClick={onOpenSearch}
+            aria-label="Open command palette"
+            className="hidden items-center gap-1.5 rounded-full py-1.5 pr-2.5 pl-2 text-ink-muted transition hover:bg-black/5 hover:text-ink sm:flex dark:text-night-muted dark:hover:bg-white/10 dark:hover:text-white"
+          >
+            <Search size={16} />
+            <kbd className="font-mono text-[11px]">⌘K</kbd>
+          </button>
 
           <ThemeToggle />
 
