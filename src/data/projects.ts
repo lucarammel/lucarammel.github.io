@@ -72,8 +72,22 @@ export const projectCategories: ProjectCategory[] = [
     ],
   },
   {
-    title: "Data Engineering & Tools",
+    title: "Software & Tooling",
     projects: [
+      {
+        name: "morphly",
+        href: "https://github.com/lucarammel/morphly",
+        tags: ["Python", "Workflow Orchestration", "Pydantic", "Type Safety"],
+        summary:
+          "Workflow framework where independent modules are chained into a typed pipeline over a shared set of business objects. The function signature is the contract, validated before any code runs.",
+        features: [
+          "**Typed by construction**: pydantic objects in, pydantic objects out — no `dict[str, Any]` ferried between steps",
+          "**The signature is the contract**: reads, creates and touches declared in the annotations, and enforced",
+          "**Fails in milliseconds, not hours**: an inconsistent workflow is rejected before it touches your data",
+          "**Zero registries**: the type is the key — nothing to register when you add a business object",
+          "**Isolated by default**: modules receive copies, only what they return is applied",
+        ],
+      },
       {
         name: "mysql2pg",
         href: "https://github.com/lucarammel/MySQL2Postgre",
