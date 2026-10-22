@@ -1,5 +1,3 @@
-import { href } from "react-router-dom";
-
 export type Social = {
   label: string;
   href: string;
