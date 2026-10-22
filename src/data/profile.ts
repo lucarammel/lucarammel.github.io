@@ -1,3 +1,5 @@
+import { href } from "react-router-dom";
+
 export type Social = {
   label: string;
   href: string;
@@ -29,9 +31,10 @@ export const profile = {
     "I have a strong interest for software development and discovering new tools, always curious about new technologies coming out!",
   ],
   currentRole: {
-    company: "Artelys",
-    href: "https://www.artelys.com/",
+    company: "Descartes Underwriting",
+    href: "https://descartesunderwriting.com/",
     previously: [
+      { name : "Artelys", href: "https://artelys.com" },
       { name: "RTE", href: "https://www.rte-france.com/" },
       { name: "IEA", href: "https://www.iea.org/" },
     ],

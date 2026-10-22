@@ -6,7 +6,7 @@ on:
       - main
   # Refreshes the Spotify listening data and the coffee map once a day without a code change.
   schedule:
-    - cron: "0 5 * * *"
+    - cron: "0 5 */3 * *"
   workflow_dispatch:
 
 permissions:

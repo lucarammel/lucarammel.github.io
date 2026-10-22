@@ -43,10 +43,19 @@ export const education: Entry[] = [
 
 export const experience: Entry[] = [
   {
+    organisation: "Descartes Underwriting",
+    location: "Paris",
+    title: "Software Engineer – Scientific Engine",
+    period: "November 2026 – Present",
+    bullets: [
+      "Stay tuned.."
+    ],
+  },
+  {
     organisation: "Artelys",
     location: "Paris",
     title: "Software Engineer – Data & Energy",
-    period: "May 2023 – Present",
+    period: "May 2023 – Octobre 2026",
     bullets: [
       "Designed and developed **Atlas**, a modular power market simulator (day-ahead, intraday, reserves) for **RTE**; built the optimization core with **or-tools**, a typed data pipeline (**Pydantic**, **Polars**), and a workflow orchestration engine with rollback-safe module chaining.",
       "Designed and deployed microservices and production applications using **Docker**, **CI/CD pipelines** (GitHub Actions, GitLab CI), **FastAPI**, and **AWS S3** / **PostgreSQL** for data storage.",
