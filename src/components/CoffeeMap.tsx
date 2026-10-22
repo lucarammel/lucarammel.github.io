@@ -4,29 +4,106 @@ import "leaflet.markercluster";
 
 import { googleMapsUrl, type CoffeeSpot } from "../data/coffee";
 
-// Carto's Positron basemap is label-light and near-monochrome, so it matches the
-// design in light mode and inverts cleanly to dark (see index.css).
-const TILES = "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png";
+const TILES =
+  "https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png";
+
 const ATTRIBUTION =
-  '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>';
+  '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, ' +
+  '&copy; <a href="https://openmaptiles.org/">OpenMapTiles</a>, ' +
+  '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
 
 const pinIcon = L.divIcon({
   className: "",
-  html: '<span class="coffee-pin block h-3 w-3"></span>',
-  iconSize: [12, 12],
-  iconAnchor: [6, 6],
-  popupAnchor: [0, -8],
+  html: `
+    <span style="
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      background: #fff8ee;
+      border: 1px solid #d6b894;
+      box-shadow: 0 2px 5px rgba(0,0,0,.2);
+    ">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="18"
+        height="18"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="#6f4228"
+        stroke-width="1.8"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      >
+        <path d="M10 2v2"/>
+        <path d="M14 2v2"/>
+        <path d="M4 7h14v8a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4V7Z"/>
+        <path d="M18 9h1a3 3 0 0 1 0 6h-2"/>
+        <path d="M8 2v2"/>
+      </svg>
+    </span>
+  `,
+  iconSize: [30, 30],
+  iconAnchor: [15, 15],
+  popupAnchor: [0, -17],
 });
+
 
 const clusterIcon = (cluster: L.MarkerCluster) => {
   const count = cluster.getChildCount();
-  const size = count < 10 ? 32 : count < 50 ? 38 : 46;
+  const size = count < 10 ? 42 : count < 50 ? 48 : 56;
+  const fontSize = count < 10 ? 11 : 12;
+
   return L.divIcon({
     className: "",
-    html: `<span class="coffee-cluster" style="width:${size}px;height:${size}px;font-size:${size < 38 ? 12 : 13}px">${count}</span>`,
+    html: `
+      <span style="
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 1px;
+        width: ${size}px;
+        height: ${size}px;
+        box-sizing: border-box;
+        border-radius: 50%;
+        background: #fff8ee;
+        border: 1.5px solid #d6b894;
+        box-shadow: 0 2px 6px rgba(0,0,0,.2);
+        color: #6f4228;
+        font-family: sans-serif;
+      ">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="${size * 0.42}px"
+          height="${size * 0.42}px"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.8"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          aria-hidden="true"
+        >
+          <path d="M4 7h14v8a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4V7Z"/>
+          <path d="M18 9h1a3 3 0 0 1 0 6h-2"/>
+          <path d="M8 3v2"/>
+          <path d="M12 3v2"/>
+        </svg>
+        <span style="
+          font-size: ${fontSize}px;
+          font-weight: 700;
+          line-height: 1;
+        ">${count}</span>
+      </span>
+    `,
     iconSize: [size, size],
+    iconAnchor: [size / 2, size / 2],
   });
 };
+
 
 const popupHtml = (spot: CoffeeSpot) => `
   <div class="min-w-44 font-sans">
@@ -73,7 +150,7 @@ export function CoffeeMap({ spots, focused }: Props) {
 
     const cluster = L.markerClusterGroup({
       showCoverageOnHover: false,
-      maxClusterRadius: 45,
+      maxClusterRadius: 30,
       iconCreateFunction: clusterIcon,
     });
     map.addLayer(cluster);
