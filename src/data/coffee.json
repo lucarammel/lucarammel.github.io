@@ -1,11 +1,27 @@
 [
   {
+    "name": "FABRIKA COFFEE SARAJEVO",
+    "lat": 43.859469,
+    "lng": 18.429781,
+    "city": "Stari Grad Municipality",
+    "country": "Bosnia and Herzegovina",
+    "countryCode": "BA"
+  },
+  {
     "name": "Colo Coffee Usaquen",
     "lat": 4.694503,
     "lng": -74.03151,
     "city": "Bogota",
     "country": "Colombia",
     "countryCode": "CO"
+  },
+  {
+    "name": "Filteraj specialty coffee & shop",
+    "lat": 45.813539,
+    "lng": 15.979372,
+    "city": "City of Zagreb",
+    "country": "Croatia",
+    "countryCode": "HR"
   },
   {
     "name": "ALQUIMIA COFFEE",
@@ -44,6 +60,14 @@
     "lat": 48.916359,
     "lng": 2.282154,
     "city": "Asnières-sur-Seine",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "name": "Café qui fume",
+    "lat": 47.666474,
+    "lng": -2.987553,
+    "city": "Auray",
     "country": "France",
     "countryCode": "FR"
   },
@@ -92,6 +116,30 @@
     "lat": 14.536117,
     "lng": -61.012091,
     "city": "Les Trois-Îlets",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "name": "CAURIS • Café & Goûter",
+    "lat": 45.766483,
+    "lng": 4.845147,
+    "city": "Lyon",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "name": "Fika Lyon",
+    "lat": 45.769679,
+    "lng": 4.829176,
+    "city": "Lyon",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "name": "Mokxa Boutique Croix-Rousse",
+    "lat": 45.775207,
+    "lng": 4.831173,
+    "city": "Lyon",
     "country": "France",
     "countryCode": "FR"
   },
@@ -184,6 +232,38 @@
     "countryCode": "FR"
   },
   {
+    "name": "Cime Torréfacteur - Coffee Shop",
+    "lat": 47.212765,
+    "lng": -1.560147,
+    "city": "Nantes",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "name": "Horizon café",
+    "lat": 47.219742,
+    "lng": -1.558956,
+    "city": "Nantes",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "name": "Madeleine Café",
+    "lat": 47.212351,
+    "lng": -1.551127,
+    "city": "Nantes",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "name": "café bouture",
+    "lat": 47.220173,
+    "lng": -1.54927,
+    "city": "Nantes",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
     "name": "Atome Coffee Shop",
     "lat": 48.856964,
     "lng": 2.272171,
@@ -203,6 +283,14 @@
     "name": "Bakea - coffee shop",
     "lat": 48.868973,
     "lng": 2.35994,
+    "city": "Paris",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "name": "Boma",
+    "lat": 48.847577,
+    "lng": 2.348351,
     "city": "Paris",
     "country": "France",
     "countryCode": "FR"
@@ -232,6 +320,14 @@
     "countryCode": "FR"
   },
   {
+    "name": "Candle Kids Coffee",
+    "lat": 48.872745,
+    "lng": 2.38928,
+    "city": "Paris",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
     "name": "Canopi Coffee",
     "lat": 48.888594,
     "lng": 2.324794,
@@ -243,6 +339,22 @@
     "name": "Caphette",
     "lat": 48.864751,
     "lng": 2.373943,
+    "city": "Paris",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "name": "Clove",
+    "lat": 48.884643,
+    "lng": 2.341827,
+    "city": "Paris",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "name": "Coeur Coffee Roasters",
+    "lat": 48.885456,
+    "lng": 2.337956,
     "city": "Paris",
     "country": "France",
     "countryCode": "FR"
@@ -272,9 +384,17 @@
     "countryCode": "FR"
   },
   {
-    "name": "Galata Bakery & Coffee",
-    "lat": 48.846103,
-    "lng": 2.351273,
+    "name": "Finca.Lab",
+    "lat": 48.868587,
+    "lng": 2.385544,
+    "city": "Paris",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "name": "Geurimi",
+    "lat": 48.856793,
+    "lng": 2.358456,
     "city": "Paris",
     "country": "France",
     "countryCode": "FR"
@@ -323,6 +443,14 @@
     "name": "L'Arbre à Café - Oberkampf",
     "lat": 48.864792,
     "lng": 2.372771,
+    "city": "Paris",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "name": "LATTE CLUB - Coffee & Matcha bar - Bastille",
+    "lat": 48.852013,
+    "lng": 2.372813,
     "city": "Paris",
     "country": "France",
     "countryCode": "FR"
@@ -384,9 +512,9 @@
     "countryCode": "FR"
   },
   {
-    "name": "Noir",
-    "lat": 48.858308,
-    "lng": 2.284238,
+    "name": "Nami Coffee Shop - Étienne Marcel",
+    "lat": 48.864753,
+    "lng": 2.35002,
     "city": "Paris",
     "country": "France",
     "countryCode": "FR"
@@ -408,9 +536,9 @@
     "countryCode": "FR"
   },
   {
-    "name": "Raf Coffee",
-    "lat": 48.847115,
-    "lng": 2.327537,
+    "name": "Perlant",
+    "lat": 48.871898,
+    "lng": 2.366443,
     "city": "Paris",
     "country": "France",
     "countryCode": "FR"
@@ -427,14 +555,6 @@
     "name": "Saint Barista Coffee",
     "lat": 48.859074,
     "lng": 2.375986,
-    "city": "Paris",
-    "country": "France",
-    "countryCode": "FR"
-  },
-  {
-    "name": "Saint Pearl Saint-Germain",
-    "lat": 48.854934,
-    "lng": 2.330553,
     "city": "Paris",
     "country": "France",
     "countryCode": "FR"
@@ -464,9 +584,33 @@
     "countryCode": "FR"
   },
   {
+    "name": "Torré Coffee Shop",
+    "lat": 48.884143,
+    "lng": 2.340965,
+    "city": "Paris",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "name": "Torré Coffee Shop",
+    "lat": 48.879059,
+    "lng": 2.301879,
+    "city": "Paris",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
     "name": "Vague Coffee",
     "lat": 48.886377,
     "lng": 2.317704,
+    "city": "Paris",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "name": "Volume Coffee Shop",
+    "lat": 48.880072,
+    "lng": 2.331645,
     "city": "Paris",
     "country": "France",
     "countryCode": "FR"
@@ -576,6 +720,22 @@
     "countryCode": "IT"
   },
   {
+    "name": "Coffee Circus Drži Prži",
+    "lat": 42.43965,
+    "lng": 19.264289,
+    "city": "Podgorica",
+    "country": "Montenegro",
+    "countryCode": "ME"
+  },
+  {
+    "name": "Small Talks",
+    "lat": 42.421417,
+    "lng": 18.769934,
+    "city": "Škaljari",
+    "country": "Montenegro",
+    "countryCode": "ME"
+  },
+  {
     "name": "Elevate Coffee Lab",
     "lat": 52.351573,
     "lng": 4.894519,
@@ -606,6 +766,30 @@
     "city": "Porto",
     "country": "Portugal",
     "countryCode": "PT"
+  },
+  {
+    "name": "Kavarna STOW Mestni Muzej",
+    "lat": 46.046968,
+    "lng": 14.504095,
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "countryCode": "SI"
+  },
+  {
+    "name": "moderna. - coffee&cocktails -",
+    "lat": 46.0531,
+    "lng": 14.499068,
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "countryCode": "SI"
+  },
+  {
+    "name": "Črno Zrno Specialty Coffee",
+    "lat": 46.046621,
+    "lng": 14.507711,
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "countryCode": "SI"
   },
   {
     "name": "Nomad Coffee Bar (ex Coffee Lab)",
