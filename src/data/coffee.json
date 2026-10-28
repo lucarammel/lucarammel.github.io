@@ -656,6 +656,38 @@
     "countryCode": "DE"
   },
   {
+    "name": "Kepen Cafe",
+    "lat": 47.493387,
+    "lng": 19.068876,
+    "city": "Budapest",
+    "country": "Hungary",
+    "countryCode": "HU"
+  },
+  {
+    "name": "Kontakt - speciality coffeeshop",
+    "lat": 47.495485,
+    "lng": 19.057782,
+    "city": "Budapest",
+    "country": "Hungary",
+    "countryCode": "HU"
+  },
+  {
+    "name": "MTRM roast - specialty coffee micro roastery and showroom Budapest",
+    "lat": 47.492025,
+    "lng": 19.077428,
+    "city": "Budapest",
+    "country": "Hungary",
+    "countryCode": "HU"
+  },
+  {
+    "name": "Picopico",
+    "lat": 47.48422,
+    "lng": 19.065254,
+    "city": "Budapest",
+    "country": "Hungary",
+    "countryCode": "HU"
+  },
+  {
     "name": "Kopituju",
     "lat": -7.985716,
     "lng": 112.630956,
@@ -766,6 +798,46 @@
     "city": "Porto",
     "country": "Portugal",
     "countryCode": "PT"
+  },
+  {
+    "name": "Artist Specialty Coffee, Stari grad",
+    "lat": 44.814943,
+    "lng": 20.465485,
+    "city": "Belgrade",
+    "country": "Serbia",
+    "countryCode": "RS"
+  },
+  {
+    "name": "DRIP Specialty Coffee",
+    "lat": 44.819214,
+    "lng": 20.461999,
+    "city": "Belgrade",
+    "country": "Serbia",
+    "countryCode": "RS"
+  },
+  {
+    "name": "Materia specialty coffee",
+    "lat": 44.821196,
+    "lng": 20.459516,
+    "city": "Belgrade",
+    "country": "Serbia",
+    "countryCode": "RS"
+  },
+  {
+    "name": "OSAM specialty coffee, Stari Grad",
+    "lat": 44.82056,
+    "lng": 20.457056,
+    "city": "Belgrade",
+    "country": "Serbia",
+    "countryCode": "RS"
+  },
+  {
+    "name": "7AM Roasters",
+    "lat": 44.804936,
+    "lng": 20.472494,
+    "city": "Vracar Urban Municipality",
+    "country": "Serbia",
+    "countryCode": "RS"
   },
   {
     "name": "Kavarna STOW Mestni Muzej",

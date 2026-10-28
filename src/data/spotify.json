@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T09:35:36.630Z",
+  "generatedAt": "2026-10-28T10:59:25.551Z",
   "profile": {
     "name": "Lucarammel",
     "url": "https://open.spotify.com/user/1112759426"
@@ -15,18 +15,18 @@
           "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
         },
         {
-          "id": "3YBJLs7RqR0aPGBgU27nDh",
-          "name": "Werenoi",
-          "image": "https://i.scdn.co/image/ab676161000051746296c04d12f719f7ea4fe566",
-          "genres": [],
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        },
-        {
           "id": "0wiCfDEHaEcPkKZOi7Nivl",
           "name": "Yamê",
           "image": "https://i.scdn.co/image/ab67616100005174c3a0eb94567e31972529dffd",
           "genres": [],
           "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        },
+        {
+          "id": "3YBJLs7RqR0aPGBgU27nDh",
+          "name": "Werenoi",
+          "image": "https://i.scdn.co/image/ab676161000051746296c04d12f719f7ea4fe566",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
         },
         {
           "id": "4ueh4hmRvt62k4BgP8dIS0",
@@ -41,6 +41,13 @@
           "image": "https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0",
           "genres": [],
           "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        },
+        {
+          "id": "55Dacc2jL4tgb6Af23NlF6",
+          "name": "miki",
+          "image": "https://i.scdn.co/image/ab67616100005174bc72771d7d3f97683da48ff6",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
         },
         {
           "id": "0zO8yNnw5GQgutcIyXfGBY",
@@ -83,13 +90,6 @@
           "image": "https://i.scdn.co/image/ab676161000051747f424b7449ae0a21541a370d",
           "genres": [],
           "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
-        },
-        {
-          "id": "4q3ewBCX7sLwd24euuV69X",
-          "name": "Bad Bunny",
-          "image": "https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13",
-          "genres": [],
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
       "tracks": [
@@ -117,19 +117,6 @@
           "url": "https://open.spotify.com/track/57AirOkRR9ZhvhqLJzYR8q"
         },
         {
-          "id": "20jexfi4zz6EewsqNELN4J",
-          "name": "Love Triangle",
-          "artists": [
-            "Angèle",
-            "Caroline Polachek",
-            "SebastiAn"
-          ],
-          "album": "Instinct",
-          "image": "https://i.scdn.co/image/ab67616d00001e0276bc7fba28c6824eaf828fd6",
-          "durationMs": 224206,
-          "url": "https://open.spotify.com/track/20jexfi4zz6EewsqNELN4J"
-        },
-        {
           "id": "0vXKNdPKnNqojeHM696Q88",
           "name": "Me Lo Merezco",
           "artists": [
@@ -152,6 +139,17 @@
           "url": "https://open.spotify.com/track/0898mJTnW06D7PZyduQMvO"
         },
         {
+          "id": "7Asbsldk2XXQiCYnh2fYr9",
+          "name": "How Come?",
+          "artists": [
+            "Fievel"
+          ],
+          "album": "How Come?",
+          "image": "https://i.scdn.co/image/ab67616d00001e02eea97e7316e74ef999caed8e",
+          "durationMs": 220000,
+          "url": "https://open.spotify.com/track/7Asbsldk2XXQiCYnh2fYr9"
+        },
+        {
           "id": "5f60Ra5kLXb9kzhJ5A6au6",
           "name": "Allons zenfants",
           "artists": [
@@ -163,15 +161,15 @@
           "url": "https://open.spotify.com/track/5f60Ra5kLXb9kzhJ5A6au6"
         },
         {
-          "id": "7Asbsldk2XXQiCYnh2fYr9",
-          "name": "How Come?",
+          "id": "5alYJggAtauKHZa8zPlnxX",
+          "name": "Deux puis toujours",
           "artists": [
-            "Fievel"
+            "Arca M"
           ],
-          "album": "How Come?",
-          "image": "https://i.scdn.co/image/ab67616d00001e02eea97e7316e74ef999caed8e",
-          "durationMs": 220000,
-          "url": "https://open.spotify.com/track/7Asbsldk2XXQiCYnh2fYr9"
+          "album": "Depuis toujours",
+          "image": "https://i.scdn.co/image/ab67616d00001e02afce7de0875c566fb93b0417",
+          "durationMs": 306666,
+          "url": "https://open.spotify.com/track/5alYJggAtauKHZa8zPlnxX"
         },
         {
           "id": "3TVUW7bJJWDOonkVCZxfLV",
@@ -196,15 +194,17 @@
           "url": "https://open.spotify.com/track/4O56MRnXKVCO4zk4MfYgFS"
         },
         {
-          "id": "5alYJggAtauKHZa8zPlnxX",
-          "name": "Deux puis toujours",
+          "id": "20jexfi4zz6EewsqNELN4J",
+          "name": "Love Triangle",
           "artists": [
-            "Arca M"
+            "Angèle",
+            "Caroline Polachek",
+            "SebastiAn"
           ],
-          "album": "Depuis toujours",
-          "image": "https://i.scdn.co/image/ab67616d00001e02afce7de0875c566fb93b0417",
-          "durationMs": 306666,
-          "url": "https://open.spotify.com/track/5alYJggAtauKHZa8zPlnxX"
+          "album": "Instinct",
+          "image": "https://i.scdn.co/image/ab67616d00001e0276bc7fba28c6824eaf828fd6",
+          "durationMs": 224206,
+          "url": "https://open.spotify.com/track/20jexfi4zz6EewsqNELN4J"
         }
       ]
     },
@@ -267,6 +267,13 @@
           "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
         },
         {
+          "id": "0wiCfDEHaEcPkKZOi7Nivl",
+          "name": "Yamê",
+          "image": "https://i.scdn.co/image/ab67616100005174c3a0eb94567e31972529dffd",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        },
+        {
           "id": "12m4a5ljGoe6yyYPpVi7Hr",
           "name": "E.VAX",
           "image": "https://i.scdn.co/image/ab6761610000517454ec699312314b97618c3618",
@@ -286,13 +293,6 @@
           "image": "https://i.scdn.co/image/ab67616100005174497a81cdc9c49a1c118539b3",
           "genres": [],
           "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        },
-        {
-          "id": "7rz6ZZErn5YFDteXKhyf3g",
-          "name": "disiz",
-          "image": "https://i.scdn.co/image/ab67616100005174df9676464010e1589d65629c",
-          "genres": [],
-          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
         }
       ],
       "tracks": [
@@ -445,18 +445,18 @@
           "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
         },
         {
-          "id": "1DxLCyH42yaHKGK3cl5bvG",
-          "name": "Maria Becerra",
-          "image": "https://i.scdn.co/image/ab676161000051747071ddcde7ab1ef2c2b34442",
-          "genres": [],
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
           "id": "3ZpEKRjHaHANcpk10u6Ntq",
           "name": "Ayra Starr",
           "image": "https://i.scdn.co/image/ab67616100005174c2074e9ac0e35662936cde67",
           "genres": [],
           "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "id": "1DxLCyH42yaHKGK3cl5bvG",
+          "name": "Maria Becerra",
+          "image": "https://i.scdn.co/image/ab676161000051747071ddcde7ab1ef2c2b34442",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         },
         {
           "id": "5yOvAmpIR7hVxiS6Ls5DPO",
