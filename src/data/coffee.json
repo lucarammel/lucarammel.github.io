@@ -656,9 +656,25 @@
     "countryCode": "DE"
   },
   {
+    "name": "Grinta Café",
+    "lat": 47.509826,
+    "lng": 19.034239,
+    "city": "Budapest",
+    "country": "Hungary",
+    "countryCode": "HU"
+  },
+  {
     "name": "Kepen Cafe",
     "lat": 47.493387,
     "lng": 19.068876,
+    "city": "Budapest",
+    "country": "Hungary",
+    "countryCode": "HU"
+  },
+  {
+    "name": "Kern Collective Coffee",
+    "lat": 47.500263,
+    "lng": 19.060051,
     "city": "Budapest",
     "country": "Hungary",
     "countryCode": "HU"
