@@ -1,5 +1,37 @@
 [
   {
+    "name": "Jonas Reindl Coffee Roasters",
+    "lat": 48.201755,
+    "lng": 16.345464,
+    "city": "Vienna",
+    "country": "Austria",
+    "countryCode": "AT"
+  },
+  {
+    "name": "Josua Coffee",
+    "lat": 48.194523,
+    "lng": 16.350615,
+    "city": "Vienna",
+    "country": "Austria",
+    "countryCode": "AT"
+  },
+  {
+    "name": "Kaffätscherl - Specialty Coffee",
+    "lat": 48.20216,
+    "lng": 16.35284,
+    "city": "Vienna",
+    "country": "Austria",
+    "countryCode": "AT"
+  },
+  {
+    "name": "Wildkaffee Wien",
+    "lat": 48.191854,
+    "lng": 16.35751,
+    "city": "Vienna",
+    "country": "Austria",
+    "countryCode": "AT"
+  },
+  {
     "name": "FABRIKA COFFEE SARAJEVO",
     "lat": 43.859469,
     "lng": 18.429781,
@@ -652,6 +684,38 @@
     "lat": 52.504165,
     "lng": 13.420324,
     "city": "Berlin",
+    "country": "Germany",
+    "countryCode": "DE"
+  },
+  {
+    "name": "CAOS Coffee",
+    "lat": 48.141303,
+    "lng": 11.583851,
+    "city": "Munich",
+    "country": "Germany",
+    "countryCode": "DE"
+  },
+  {
+    "name": "KANSO COFFEE LAB",
+    "lat": 48.140403,
+    "lng": 11.576786,
+    "city": "Munich",
+    "country": "Germany",
+    "countryCode": "DE"
+  },
+  {
+    "name": "humpback whale specialty coffee",
+    "lat": 48.151741,
+    "lng": 11.577356,
+    "city": "Munich",
+    "country": "Germany",
+    "countryCode": "DE"
+  },
+  {
+    "name": "sweet spot kaffee – specialty coffee",
+    "lat": 48.135836,
+    "lng": 11.577732,
+    "city": "Munich",
     "country": "Germany",
     "countryCode": "DE"
   },
