@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T11:41:28.140Z",
+  "generatedAt": "2026-11-04T12:47:54.066Z",
   "profile": {
     "name": "Lucarammel",
     "url": "https://open.spotify.com/user/1112759426"
@@ -8,18 +8,18 @@
     "short_term": {
       "artists": [
         {
-          "id": "3QVolfxko2UyCOtexhVTli",
-          "name": "Angèle",
-          "image": "https://i.scdn.co/image/ab67616100005174a5396ab4c06009c05685d54d",
-          "genres": [],
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        },
-        {
           "id": "0wiCfDEHaEcPkKZOi7Nivl",
           "name": "Yamê",
           "image": "https://i.scdn.co/image/ab67616100005174c3a0eb94567e31972529dffd",
           "genres": [],
           "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        },
+        {
+          "id": "3QVolfxko2UyCOtexhVTli",
+          "name": "Angèle",
+          "image": "https://i.scdn.co/image/ab67616100005174a5396ab4c06009c05685d54d",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
         },
         {
           "id": "4ueh4hmRvt62k4BgP8dIS0",
@@ -43,13 +43,6 @@
           "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
         },
         {
-          "id": "0zO8yNnw5GQgutcIyXfGBY",
-          "name": "ELENA ROSE",
-          "image": "https://i.scdn.co/image/ab676161000051742948fdff5fcfa2303e18e12c",
-          "genres": [],
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
           "id": "3ZpEKRjHaHANcpk10u6Ntq",
           "name": "Ayra Starr",
           "image": "https://i.scdn.co/image/ab67616100005174c2074e9ac0e35662936cde67",
@@ -59,16 +52,9 @@
         {
           "id": "5If5Tdg66Q5X3L57G7A6Pn",
           "name": "Thylacine",
-          "image": "https://i.scdn.co/image/ab67616100005174015dda37ad30a5a5ba10becd",
+          "image": "https://i.scdn.co/image/ab67616100005174559ebf9ae5c8a573d3600b33",
           "genres": [],
           "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
-        },
-        {
-          "id": "2UwqpfQtNuhBwviIC0f2ie",
-          "name": "Damso",
-          "image": "https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0",
-          "genres": [],
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
         },
         {
           "id": "790FomKkXshlbRYZFtlgla",
@@ -78,6 +64,13 @@
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
+          "id": "5yOvAmpIR7hVxiS6Ls5DPO",
+          "name": "OMAH LAY",
+          "image": "https://i.scdn.co/image/ab6761610000517435ba3ee6067196268c5528cb",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
           "id": "3CnCGFxXbOA8bAK54jR8js",
           "name": "Vald",
           "image": "https://i.scdn.co/image/ab676161000051747f424b7449ae0a21541a370d",
@@ -85,47 +78,32 @@
           "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
         },
         {
-          "id": "5yOvAmpIR7hVxiS6Ls5DPO",
-          "name": "OMAH LAY",
-          "image": "https://i.scdn.co/image/ab6761610000517435ba3ee6067196268c5528cb",
+          "id": "2UwqpfQtNuhBwviIC0f2ie",
+          "name": "Damso",
+          "image": "https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0",
           "genres": [],
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        },
+        {
+          "id": "3Bs4lfvN2mcnu3yhtBlGt5",
+          "name": "Billy Sharp",
+          "image": "https://i.scdn.co/image/ab676161000051744ae4c51e35eac148a36e6039",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/3Bs4lfvN2mcnu3yhtBlGt5"
         }
       ],
       "tracks": [
         {
-          "id": "57AirOkRR9ZhvhqLJzYR8q",
-          "name": "Shark Island - Catching Flies Remix",
+          "id": "6TlFnB8GBrlILKv5qy27Sn",
+          "name": "Selecta (feat. Stefflon Don)",
           "artists": [
-            "Thylacine",
-            "Catching Flies"
+            "Chase & Status",
+            "Stefflon Don"
           ],
-          "album": "Shark Island (Catching Flies Remix)",
-          "image": "https://i.scdn.co/image/ab67616d00001e024a8a2ba31631cf0977c513d3",
-          "durationMs": 199500,
-          "url": "https://open.spotify.com/track/57AirOkRR9ZhvhqLJzYR8q"
-        },
-        {
-          "id": "0vXKNdPKnNqojeHM696Q88",
-          "name": "Me Lo Merezco",
-          "artists": [
-            "ELENA ROSE"
-          ],
-          "album": "Me Lo Merezco",
-          "image": "https://i.scdn.co/image/ab67616d00001e0252008f3b8d71a07ca9616e2a",
-          "durationMs": 172124,
-          "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
-        },
-        {
-          "id": "0898mJTnW06D7PZyduQMvO",
-          "name": "Soso",
-          "artists": [
-            "Kabusa Oriental Choir"
-          ],
-          "album": "Soso",
-          "image": "https://i.scdn.co/image/ab67616d00001e02bc5664bb945c3088f915f195",
-          "durationMs": 130285,
-          "url": "https://open.spotify.com/track/0898mJTnW06D7PZyduQMvO"
+          "album": "2 RUFF, Vol. 1",
+          "image": "https://i.scdn.co/image/ab67616d00001e028a7fdf2de701f3ea4cfacfc1",
+          "durationMs": 189693,
+          "url": "https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn"
         },
         {
           "id": "2kHnjvUOJzT81S4uSLQfM9",
@@ -139,15 +117,27 @@
           "url": "https://open.spotify.com/track/2kHnjvUOJzT81S4uSLQfM9"
         },
         {
-          "id": "5alYJggAtauKHZa8zPlnxX",
-          "name": "Deux puis toujours",
+          "id": "0898mJTnW06D7PZyduQMvO",
+          "name": "Soso",
           "artists": [
-            "Arca M"
+            "Kabusa Oriental Choir"
           ],
-          "album": "Depuis toujours",
-          "image": "https://i.scdn.co/image/ab67616d00001e02afce7de0875c566fb93b0417",
-          "durationMs": 306666,
-          "url": "https://open.spotify.com/track/5alYJggAtauKHZa8zPlnxX"
+          "album": "Soso",
+          "image": "https://i.scdn.co/image/ab67616d00001e02bc5664bb945c3088f915f195",
+          "durationMs": 130285,
+          "url": "https://open.spotify.com/track/0898mJTnW06D7PZyduQMvO"
+        },
+        {
+          "id": "57AirOkRR9ZhvhqLJzYR8q",
+          "name": "Shark Island - Catching Flies Remix",
+          "artists": [
+            "Thylacine",
+            "Catching Flies"
+          ],
+          "album": "Shark Island (Catching Flies Remix)",
+          "image": "https://i.scdn.co/image/ab67616d00001e024a8a2ba31631cf0977c513d3",
+          "durationMs": 199500,
+          "url": "https://open.spotify.com/track/57AirOkRR9ZhvhqLJzYR8q"
         },
         {
           "id": "4OMLC6CWEqwCvfv289QNlw",
@@ -161,15 +151,15 @@
           "url": "https://open.spotify.com/track/4OMLC6CWEqwCvfv289QNlw"
         },
         {
-          "id": "5O1ihEXC9QGapoXRPZNzzk",
-          "name": "Pas de Roi",
+          "id": "5alYJggAtauKHZa8zPlnxX",
+          "name": "Deux puis toujours",
           "artists": [
-            "Isïa"
+            "Arca M"
           ],
-          "album": "Plein d'Agrafes",
-          "image": "https://i.scdn.co/image/ab67616d00001e02a69860157b7cf19aac79270d",
-          "durationMs": 165819,
-          "url": "https://open.spotify.com/track/5O1ihEXC9QGapoXRPZNzzk"
+          "album": "Depuis toujours",
+          "image": "https://i.scdn.co/image/ab67616d00001e02afce7de0875c566fb93b0417",
+          "durationMs": 306666,
+          "url": "https://open.spotify.com/track/5alYJggAtauKHZa8zPlnxX"
         },
         {
           "id": "35F1QrGBAgki7d9yjjYnbT",
@@ -183,17 +173,6 @@
           "url": "https://open.spotify.com/track/35F1QrGBAgki7d9yjjYnbT"
         },
         {
-          "id": "3TVUW7bJJWDOonkVCZxfLV",
-          "name": "Pas bête",
-          "artists": [
-            "Beendo Z"
-          ],
-          "album": "L'Élu",
-          "image": "https://i.scdn.co/image/ab67616d00001e02f31a63df8e43bc2feef2a585",
-          "durationMs": 143525,
-          "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
-        },
-        {
           "id": "6e1T28Wkr7r8xciTXcwhKJ",
           "name": "Triple V",
           "artists": [
@@ -205,6 +184,30 @@
           "image": "https://i.scdn.co/image/ab67616d00001e02f4aec0b976368624d9281ace",
           "durationMs": 193125,
           "url": "https://open.spotify.com/track/6e1T28Wkr7r8xciTXcwhKJ"
+        },
+        {
+          "id": "1twXUY8kbuu6uUKIHeFuHM",
+          "name": "MON BÉBÉ",
+          "artists": [
+            "RnBoi"
+          ],
+          "album": "My Eyes Only - Flashback",
+          "image": "https://i.scdn.co/image/ab67616d00001e02628e0c90703f88e9bc55c191",
+          "durationMs": 130500,
+          "url": "https://open.spotify.com/track/1twXUY8kbuu6uUKIHeFuHM"
+        },
+        {
+          "id": "20jexfi4zz6EewsqNELN4J",
+          "name": "Love Triangle",
+          "artists": [
+            "Angèle",
+            "Caroline Polachek",
+            "SebastiAn"
+          ],
+          "album": "Instinct",
+          "image": "https://i.scdn.co/image/ab67616d00001e0276bc7fba28c6824eaf828fd6",
+          "durationMs": 224206,
+          "url": "https://open.spotify.com/track/20jexfi4zz6EewsqNELN4J"
         }
       ]
     },
