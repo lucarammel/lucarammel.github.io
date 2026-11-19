@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T13:22:31.586Z",
+  "generatedAt": "2026-11-19T14:08:25.089Z",
   "profile": {
     "name": "Lucarammel",
     "url": "https://open.spotify.com/user/1112759426"
@@ -22,11 +22,11 @@
           "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
         },
         {
-          "id": "3YBJLs7RqR0aPGBgU27nDh",
-          "name": "Werenoi",
-          "image": "https://i.scdn.co/image/ab676161000051746296c04d12f719f7ea4fe566",
+          "id": "3QVolfxko2UyCOtexhVTli",
+          "name": "Angèle",
+          "image": "https://i.scdn.co/image/ab67616100005174a5396ab4c06009c05685d54d",
           "genres": [],
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
         },
         {
           "id": "3CnCGFxXbOA8bAK54jR8js",
@@ -36,18 +36,11 @@
           "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
         },
         {
-          "id": "55Dacc2jL4tgb6Af23NlF6",
-          "name": "miki",
-          "image": "https://i.scdn.co/image/ab67616100005174bc72771d7d3f97683da48ff6",
+          "id": "3YBJLs7RqR0aPGBgU27nDh",
+          "name": "Werenoi",
+          "image": "https://i.scdn.co/image/ab676161000051746296c04d12f719f7ea4fe566",
           "genres": [],
-          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
-        },
-        {
-          "id": "3QVolfxko2UyCOtexhVTli",
-          "name": "Angèle",
-          "image": "https://i.scdn.co/image/ab67616100005174a5396ab4c06009c05685d54d",
-          "genres": [],
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
         },
         {
           "id": "62Jwsvqi7hW8TR9rAcfBXY",
@@ -57,18 +50,18 @@
           "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
         },
         {
+          "id": "55Dacc2jL4tgb6Af23NlF6",
+          "name": "miki",
+          "image": "https://i.scdn.co/image/ab67616100005174bc72771d7d3f97683da48ff6",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
+        },
+        {
           "id": "2UwqpfQtNuhBwviIC0f2ie",
           "name": "Damso",
           "image": "https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0",
           "genres": [],
           "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        },
-        {
-          "id": "17u6mMCLx4RTzjIKRaTRIv",
-          "name": "Solann",
-          "image": "https://i.scdn.co/image/ab67616100005174ef383cee720146f2052b9914",
-          "genres": [],
-          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
         },
         {
           "id": "3NH8t45zOTqzlZgBvZRjvB",
@@ -78,18 +71,25 @@
           "url": "https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB"
         },
         {
+          "id": "17u6mMCLx4RTzjIKRaTRIv",
+          "name": "Solann",
+          "image": "https://i.scdn.co/image/ab67616100005174ef383cee720146f2052b9914",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        },
+        {
+          "id": "4z8LvfxawVZLoLR1KTUzQL",
+          "name": "Dooz Kawa",
+          "image": "https://i.scdn.co/image/ab67616100005174bf7f005944612f1d03f3c728",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/4z8LvfxawVZLoLR1KTUzQL"
+        },
+        {
           "id": "5gqmbbfjcikQBzPB5Hv13I",
           "name": "Gazo",
           "image": "https://i.scdn.co/image/ab67616100005174de1f31d720f69ddfaaccc232",
           "genres": [],
           "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "id": "790FomKkXshlbRYZFtlgla",
-          "name": "KAROL G",
-          "image": "https://i.scdn.co/image/ab676161000051743869e286c9043f85e8e4bc06",
-          "genres": [],
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
       "tracks": [
@@ -142,26 +142,26 @@
           "url": "https://open.spotify.com/track/25LmqV3caGgXzyQqmCRYAz"
         },
         {
-          "id": "4OMLC6CWEqwCvfv289QNlw",
-          "name": "C63",
+          "id": "3m1TLSxcCwT2CfIqKfQWuG",
+          "name": "Une seule vie",
           "artists": [
-            "Werenoi"
+            "Angèle"
           ],
-          "album": "Pyramide 2",
-          "image": "https://i.scdn.co/image/ab67616d00001e025e69d7a9159306d54ee54fd2",
-          "durationMs": 209000,
-          "url": "https://open.spotify.com/track/4OMLC6CWEqwCvfv289QNlw"
+          "album": "Instinct",
+          "image": "https://i.scdn.co/image/ab67616d00001e0276bc7fba28c6824eaf828fd6",
+          "durationMs": 245606,
+          "url": "https://open.spotify.com/track/3m1TLSxcCwT2CfIqKfQWuG"
         },
         {
-          "id": "0FbNxtUbetsjF7s42pkOIS",
-          "name": "Dans 10 ans",
+          "id": "3msSWckYk40B2YgYXXxI94",
+          "name": "Fade Away - MAPS Remix",
           "artists": [
-            "Yamê"
+            "Susanne Sundfør"
           ],
-          "album": "ÉBĒM",
-          "image": "https://i.scdn.co/image/ab67616d00001e02153d9113264fb55b034f959c",
-          "durationMs": 211306,
-          "url": "https://open.spotify.com/track/0FbNxtUbetsjF7s42pkOIS"
+          "album": "Fade Away Remixes",
+          "image": "https://i.scdn.co/image/ab67616d00001e02521974280c4579478ce41c95",
+          "durationMs": 356729,
+          "url": "https://open.spotify.com/track/3msSWckYk40B2YgYXXxI94"
         },
         {
           "id": "2ZWmmrWUgDBcPSLihBMvhg",
@@ -180,37 +180,37 @@
           "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
         },
         {
-          "id": "3TVUW7bJJWDOonkVCZxfLV",
-          "name": "Pas bête",
+          "id": "4OMLC6CWEqwCvfv289QNlw",
+          "name": "C63",
           "artists": [
-            "Beendo Z"
+            "Werenoi"
           ],
-          "album": "L'Élu",
-          "image": "https://i.scdn.co/image/ab67616d00001e02f31a63df8e43bc2feef2a585",
-          "durationMs": 143525,
-          "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
+          "album": "Pyramide 2",
+          "image": "https://i.scdn.co/image/ab67616d00001e025e69d7a9159306d54ee54fd2",
+          "durationMs": 209000,
+          "url": "https://open.spotify.com/track/4OMLC6CWEqwCvfv289QNlw"
         },
         {
-          "id": "3m1TLSxcCwT2CfIqKfQWuG",
-          "name": "Une seule vie",
+          "id": "6teRDIuCfiXgJe3QsKG41A",
+          "name": "MON ROI",
           "artists": [
-            "Angèle"
+            "Youssoupha"
           ],
-          "album": "Instinct",
-          "image": "https://i.scdn.co/image/ab67616d00001e0276bc7fba28c6824eaf828fd6",
-          "durationMs": 245606,
-          "url": "https://open.spotify.com/track/3m1TLSxcCwT2CfIqKfQWuG"
+          "album": "NEPTUNE TERMINUS",
+          "image": "https://i.scdn.co/image/ab67616d00001e027ac77fbc4c8a154b4ae66675",
+          "durationMs": 196453,
+          "url": "https://open.spotify.com/track/6teRDIuCfiXgJe3QsKG41A"
         },
         {
-          "id": "7mSmt2yar5VUXZNBV4AnpE",
-          "name": "Make This Right",
+          "id": "0FbNxtUbetsjF7s42pkOIS",
+          "name": "Dans 10 ans",
           "artists": [
-            "The Toxic Avenger"
+            "Yamê"
           ],
-          "album": "Furi (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d00001e029ab84cdf4fa3f991708f7001",
-          "durationMs": 348235,
-          "url": "https://open.spotify.com/track/7mSmt2yar5VUXZNBV4AnpE"
+          "album": "ÉBĒM",
+          "image": "https://i.scdn.co/image/ab67616d00001e02153d9113264fb55b034f959c",
+          "durationMs": 211306,
+          "url": "https://open.spotify.com/track/0FbNxtUbetsjF7s42pkOIS"
         }
       ]
     },
@@ -294,11 +294,11 @@
           "url": "https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs"
         },
         {
-          "id": "7rz6ZZErn5YFDteXKhyf3g",
-          "name": "disiz",
-          "image": "https://i.scdn.co/image/ab67616100005174df9676464010e1589d65629c",
+          "id": "3NH8t45zOTqzlZgBvZRjvB",
+          "name": "PNL",
+          "image": "https://i.scdn.co/image/ab6761610000517451767bb5e3e3add66699344b",
           "genres": [],
-          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+          "url": "https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB"
         }
       ],
       "tracks": [
@@ -314,17 +314,6 @@
           "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
         },
         {
-          "id": "0898mJTnW06D7PZyduQMvO",
-          "name": "Soso",
-          "artists": [
-            "Kabusa Oriental Choir"
-          ],
-          "album": "Soso",
-          "image": "https://i.scdn.co/image/ab67616d00001e02bc5664bb945c3088f915f195",
-          "durationMs": 130285,
-          "url": "https://open.spotify.com/track/0898mJTnW06D7PZyduQMvO"
-        },
-        {
           "id": "4cSHMHSTRhetAtT1iDP2zO",
           "name": "Été avec toi",
           "artists": [
@@ -334,6 +323,17 @@
           "image": "https://i.scdn.co/image/ab67616d00001e0243db3f10cf8ceb525ef193ac",
           "durationMs": 187320,
           "url": "https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO"
+        },
+        {
+          "id": "0898mJTnW06D7PZyduQMvO",
+          "name": "Soso",
+          "artists": [
+            "Kabusa Oriental Choir"
+          ],
+          "album": "Soso",
+          "image": "https://i.scdn.co/image/ab67616d00001e02bc5664bb945c3088f915f195",
+          "durationMs": 130285,
+          "url": "https://open.spotify.com/track/0898mJTnW06D7PZyduQMvO"
         },
         {
           "id": "25LmqV3caGgXzyQqmCRYAz",
