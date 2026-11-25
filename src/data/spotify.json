@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T13:05:20.292Z",
+  "generatedAt": "2026-11-25T15:18:57.978Z",
   "profile": {
     "name": "Lucarammel",
     "url": "https://open.spotify.com/user/1112759426"
@@ -15,18 +15,11 @@
           "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
         },
         {
-          "id": "0wiCfDEHaEcPkKZOi7Nivl",
-          "name": "Yamê",
-          "image": "https://i.scdn.co/image/ab67616100005174c3a0eb94567e31972529dffd",
+          "id": "62Jwsvqi7hW8TR9rAcfBXY",
+          "name": "Grandbrothers",
+          "image": "https://i.scdn.co/image/ab676161000051743608e4c8894908499146d5f3",
           "genres": [],
-          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
-        },
-        {
-          "id": "3QVolfxko2UyCOtexhVTli",
-          "name": "Angèle",
-          "image": "https://i.scdn.co/image/ab67616100005174a5396ab4c06009c05685d54d",
-          "genres": [],
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
         },
         {
           "id": "3CnCGFxXbOA8bAK54jR8js",
@@ -34,6 +27,13 @@
           "image": "https://i.scdn.co/image/ab676161000051747f424b7449ae0a21541a370d",
           "genres": [],
           "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        },
+        {
+          "id": "3QVolfxko2UyCOtexhVTli",
+          "name": "Angèle",
+          "image": "https://i.scdn.co/image/ab67616100005174a5396ab4c06009c05685d54d",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
         },
         {
           "id": "2UwqpfQtNuhBwviIC0f2ie",
@@ -50,18 +50,18 @@
           "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
         },
         {
-          "id": "62Jwsvqi7hW8TR9rAcfBXY",
-          "name": "Grandbrothers",
-          "image": "https://i.scdn.co/image/ab676161000051743608e4c8894908499146d5f3",
+          "id": "3Rq3YOF9YG9YfCWD4D56RZ",
+          "name": "Nujabes",
+          "image": "https://i.scdn.co/image/ab6761610000517457f19d2f179b00207bfb3155",
           "genres": [],
-          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
         },
         {
-          "id": "55Dacc2jL4tgb6Af23NlF6",
-          "name": "miki",
-          "image": "https://i.scdn.co/image/ab67616100005174bc72771d7d3f97683da48ff6",
+          "id": "4ueh4hmRvt62k4BgP8dIS0",
+          "name": "Adèle Castillon",
+          "image": "https://i.scdn.co/image/ab67616100005174a7e7b56c29fe9fd35e02db61",
           "genres": [],
-          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
         },
         {
           "id": "69irZ4R8OsrLHjr6VmMmMg",
@@ -85,11 +85,11 @@
           "url": "https://open.spotify.com/artist/4z8LvfxawVZLoLR1KTUzQL"
         },
         {
-          "id": "5gqmbbfjcikQBzPB5Hv13I",
-          "name": "Gazo",
-          "image": "https://i.scdn.co/image/ab67616100005174de1f31d720f69ddfaaccc232",
+          "id": "1nTVNdaDAzXB1AbP30cGk6",
+          "name": "SNIPER",
+          "image": "https://i.scdn.co/image/ab67616100005174e4ee2ce6b3af04a691ae7294",
           "genres": [],
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "url": "https://open.spotify.com/artist/1nTVNdaDAzXB1AbP30cGk6"
         }
       ],
       "tracks": [
@@ -106,17 +106,6 @@
           "url": "https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn"
         },
         {
-          "id": "2kHnjvUOJzT81S4uSLQfM9",
-          "name": "Shoot",
-          "artists": [
-            "Yamê"
-          ],
-          "album": "ÉBĒM",
-          "image": "https://i.scdn.co/image/ab67616d00001e02153d9113264fb55b034f959c",
-          "durationMs": 214146,
-          "url": "https://open.spotify.com/track/2kHnjvUOJzT81S4uSLQfM9"
-        },
-        {
           "id": "3VFaV7Mw0di4XFE84eHnrC",
           "name": "Disconnect",
           "artists": [
@@ -127,6 +116,17 @@
           "image": "https://i.scdn.co/image/ab67616d00001e02d621943311379ba32915a226",
           "durationMs": 164914,
           "url": "https://open.spotify.com/track/3VFaV7Mw0di4XFE84eHnrC"
+        },
+        {
+          "id": "3msSWckYk40B2YgYXXxI94",
+          "name": "Fade Away - MAPS Remix",
+          "artists": [
+            "Susanne Sundfør"
+          ],
+          "album": "Fade Away Remixes",
+          "image": "https://i.scdn.co/image/ab67616d00001e02521974280c4579478ce41c95",
+          "durationMs": 356729,
+          "url": "https://open.spotify.com/track/3msSWckYk40B2YgYXXxI94"
         },
         {
           "id": "25LmqV3caGgXzyQqmCRYAz",
@@ -142,15 +142,15 @@
           "url": "https://open.spotify.com/track/25LmqV3caGgXzyQqmCRYAz"
         },
         {
-          "id": "3msSWckYk40B2YgYXXxI94",
-          "name": "Fade Away - MAPS Remix",
+          "id": "2kHnjvUOJzT81S4uSLQfM9",
+          "name": "Shoot",
           "artists": [
-            "Susanne Sundfør"
+            "Yamê"
           ],
-          "album": "Fade Away Remixes",
-          "image": "https://i.scdn.co/image/ab67616d00001e02521974280c4579478ce41c95",
-          "durationMs": 356729,
-          "url": "https://open.spotify.com/track/3msSWckYk40B2YgYXXxI94"
+          "album": "ÉBĒM",
+          "image": "https://i.scdn.co/image/ab67616d00001e02153d9113264fb55b034f959c",
+          "durationMs": 214146,
+          "url": "https://open.spotify.com/track/2kHnjvUOJzT81S4uSLQfM9"
         },
         {
           "id": "3m1TLSxcCwT2CfIqKfQWuG",
@@ -180,17 +180,6 @@
           "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
         },
         {
-          "id": "6teRDIuCfiXgJe3QsKG41A",
-          "name": "MON ROI",
-          "artists": [
-            "Youssoupha"
-          ],
-          "album": "NEPTUNE TERMINUS",
-          "image": "https://i.scdn.co/image/ab67616d00001e027ac77fbc4c8a154b4ae66675",
-          "durationMs": 196453,
-          "url": "https://open.spotify.com/track/6teRDIuCfiXgJe3QsKG41A"
-        },
-        {
           "id": "3TVUW7bJJWDOonkVCZxfLV",
           "name": "Pas bête",
           "artists": [
@@ -202,15 +191,26 @@
           "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
         },
         {
-          "id": "0FbNxtUbetsjF7s42pkOIS",
-          "name": "Dans 10 ans",
+          "id": "7wFxXTPnZOQ4z0AhPddq5n",
+          "name": "Dispense",
           "artists": [
-            "Yamê"
+            "Werenoi"
           ],
-          "album": "ÉBĒM",
-          "image": "https://i.scdn.co/image/ab67616d00001e02153d9113264fb55b034f959c",
-          "durationMs": 211306,
-          "url": "https://open.spotify.com/track/0FbNxtUbetsjF7s42pkOIS"
+          "album": "Diamant Noir",
+          "image": "https://i.scdn.co/image/ab67616d00001e02f4aec0b976368624d9281ace",
+          "durationMs": 165581,
+          "url": "https://open.spotify.com/track/7wFxXTPnZOQ4z0AhPddq5n"
+        },
+        {
+          "id": "73ctrsmkdu7GJS1as79hPu",
+          "name": "C'est tout moi",
+          "artists": [
+            "Adèle Castillon"
+          ],
+          "album": "(Re)belle",
+          "image": "https://i.scdn.co/image/ab67616d00001e029e05ef9292400bcdf98d1de2",
+          "durationMs": 149733,
+          "url": "https://open.spotify.com/track/73ctrsmkdu7GJS1as79hPu"
         }
       ]
     },
@@ -224,18 +224,18 @@
           "url": "https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8"
         },
         {
-          "id": "3QVolfxko2UyCOtexhVTli",
-          "name": "Angèle",
-          "image": "https://i.scdn.co/image/ab67616100005174a5396ab4c06009c05685d54d",
-          "genres": [],
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        },
-        {
           "id": "62Jwsvqi7hW8TR9rAcfBXY",
           "name": "Grandbrothers",
           "image": "https://i.scdn.co/image/ab676161000051743608e4c8894908499146d5f3",
           "genres": [],
           "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+        },
+        {
+          "id": "3QVolfxko2UyCOtexhVTli",
+          "name": "Angèle",
+          "image": "https://i.scdn.co/image/ab67616100005174a5396ab4c06009c05685d54d",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
         },
         {
           "id": "2UwqpfQtNuhBwviIC0f2ie",
@@ -245,11 +245,11 @@
           "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
         },
         {
-          "id": "4yPFe6ZiSjH5mgjDwiYZgc",
-          "name": "RnBoi",
-          "image": "https://i.scdn.co/image/ab6761610000517430cbaea627d8bc6eb4eed84d",
+          "id": "3YBJLs7RqR0aPGBgU27nDh",
+          "name": "Werenoi",
+          "image": "https://i.scdn.co/image/ab676161000051746296c04d12f719f7ea4fe566",
           "genres": [],
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
         },
         {
           "id": "790FomKkXshlbRYZFtlgla",
@@ -259,18 +259,25 @@
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
-          "id": "3YBJLs7RqR0aPGBgU27nDh",
-          "name": "Werenoi",
-          "image": "https://i.scdn.co/image/ab676161000051746296c04d12f719f7ea4fe566",
-          "genres": [],
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        },
-        {
           "id": "0wiCfDEHaEcPkKZOi7Nivl",
           "name": "Yamê",
           "image": "https://i.scdn.co/image/ab67616100005174c3a0eb94567e31972529dffd",
           "genres": [],
           "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        },
+        {
+          "id": "4ueh4hmRvt62k4BgP8dIS0",
+          "name": "Adèle Castillon",
+          "image": "https://i.scdn.co/image/ab67616100005174a7e7b56c29fe9fd35e02db61",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "id": "4yPFe6ZiSjH5mgjDwiYZgc",
+          "name": "RnBoi",
+          "image": "https://i.scdn.co/image/ab6761610000517430cbaea627d8bc6eb4eed84d",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
         },
         {
           "id": "3jNkaOXasoc7RsxdchvEVq",
@@ -292,13 +299,6 @@
           "image": "https://i.scdn.co/image/ab67616100005174c2074e9ac0e35662936cde67",
           "genres": [],
           "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "id": "2MbUbqIpGI8JMwweEduYTs",
-          "name": "Asfar Shamsi",
-          "image": "https://i.scdn.co/image/ab676161000051743839eefcb6191ead05695966",
-          "genres": [],
-          "url": "https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs"
         }
       ],
       "tracks": [
@@ -314,26 +314,15 @@
           "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
         },
         {
-          "id": "4cSHMHSTRhetAtT1iDP2zO",
+          "id": "0I6ak8nLMqI4k233VOBVCd",
           "name": "Été avec toi",
           "artists": [
             "Adèle Castillon"
           ],
-          "album": "Été avec toi",
-          "image": "https://i.scdn.co/image/ab67616d00001e0243db3f10cf8ceb525ef193ac",
-          "durationMs": 187320,
-          "url": "https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO"
-        },
-        {
-          "id": "0898mJTnW06D7PZyduQMvO",
-          "name": "Soso",
-          "artists": [
-            "Kabusa Oriental Choir"
-          ],
-          "album": "Soso",
-          "image": "https://i.scdn.co/image/ab67616d00001e02bc5664bb945c3088f915f195",
-          "durationMs": 130285,
-          "url": "https://open.spotify.com/track/0898mJTnW06D7PZyduQMvO"
+          "album": "(Re)belle",
+          "image": "https://i.scdn.co/image/ab67616d00001e029e05ef9292400bcdf98d1de2",
+          "durationMs": 189266,
+          "url": "https://open.spotify.com/track/0I6ak8nLMqI4k233VOBVCd"
         },
         {
           "id": "25LmqV3caGgXzyQqmCRYAz",
@@ -372,6 +361,17 @@
           "image": "https://i.scdn.co/image/ab67616d00001e0276bc7fba28c6824eaf828fd6",
           "durationMs": 245606,
           "url": "https://open.spotify.com/track/3m1TLSxcCwT2CfIqKfQWuG"
+        },
+        {
+          "id": "0898mJTnW06D7PZyduQMvO",
+          "name": "Soso",
+          "artists": [
+            "Kabusa Oriental Choir"
+          ],
+          "album": "Soso",
+          "image": "https://i.scdn.co/image/ab67616d00001e02bc5664bb945c3088f915f195",
+          "durationMs": 130285,
+          "url": "https://open.spotify.com/track/0898mJTnW06D7PZyduQMvO"
         },
         {
           "id": "4ffqxU54Ll4YRz5NVBe77w",

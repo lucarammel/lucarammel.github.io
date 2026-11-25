@@ -368,6 +368,14 @@
     "countryCode": "FR"
   },
   {
+    "name": "Canoune",
+    "lat": 48.869495,
+    "lng": 2.394605,
+    "city": "Paris",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
     "name": "Caphette",
     "lat": 48.864751,
     "lng": 2.373943,
@@ -416,6 +424,14 @@
     "countryCode": "FR"
   },
   {
+    "name": "Cypher Coffee Shop",
+    "lat": 48.86466,
+    "lng": 2.393985,
+    "city": "Paris",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
     "name": "Finca.Lab",
     "lat": 48.868587,
     "lng": 2.385544,
@@ -443,6 +459,14 @@
     "name": "Inform Café",
     "lat": 48.877063,
     "lng": 2.291761,
+    "city": "Paris",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "name": "JOY X BECK",
+    "lat": 48.865573,
+    "lng": 2.3948,
     "city": "Paris",
     "country": "France",
     "countryCode": "FR"
@@ -571,6 +595,14 @@
     "name": "Perlant",
     "lat": 48.871898,
     "lng": 2.366443,
+    "city": "Paris",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "name": "Pilo’s",
+    "lat": 48.863717,
+    "lng": 2.397184,
     "city": "Paris",
     "country": "France",
     "countryCode": "FR"
