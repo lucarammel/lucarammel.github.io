@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:18:57.978Z",
+  "generatedAt": "2026-11-28T13:54:49.430Z",
   "profile": {
     "name": "Lucarammel",
     "url": "https://open.spotify.com/user/1112759426"
@@ -13,6 +13,13 @@
           "image": "https://i.scdn.co/image/ab67616100005174f90a880bf5313e0eb14c05c9",
           "genres": [],
           "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "id": "3QVolfxko2UyCOtexhVTli",
+          "name": "Angèle",
+          "image": "https://i.scdn.co/image/ab67616100005174a5396ab4c06009c05685d54d",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
         },
         {
           "id": "62Jwsvqi7hW8TR9rAcfBXY",
@@ -29,13 +36,6 @@
           "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
         },
         {
-          "id": "3QVolfxko2UyCOtexhVTli",
-          "name": "Angèle",
-          "image": "https://i.scdn.co/image/ab67616100005174a5396ab4c06009c05685d54d",
-          "genres": [],
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        },
-        {
           "id": "2UwqpfQtNuhBwviIC0f2ie",
           "name": "Damso",
           "image": "https://i.scdn.co/image/ab67616100005174301a9c599d85d89e7a90fed0",
@@ -50,18 +50,18 @@
           "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
         },
         {
-          "id": "3Rq3YOF9YG9YfCWD4D56RZ",
-          "name": "Nujabes",
-          "image": "https://i.scdn.co/image/ab6761610000517457f19d2f179b00207bfb3155",
-          "genres": [],
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
           "id": "4ueh4hmRvt62k4BgP8dIS0",
           "name": "Adèle Castillon",
           "image": "https://i.scdn.co/image/ab67616100005174a7e7b56c29fe9fd35e02db61",
           "genres": [],
           "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "id": "3Rq3YOF9YG9YfCWD4D56RZ",
+          "name": "Nujabes",
+          "image": "https://i.scdn.co/image/ab6761610000517457f19d2f179b00207bfb3155",
+          "genres": [],
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
         },
         {
           "id": "69irZ4R8OsrLHjr6VmMmMg",
@@ -142,6 +142,17 @@
           "url": "https://open.spotify.com/track/25LmqV3caGgXzyQqmCRYAz"
         },
         {
+          "id": "3m1TLSxcCwT2CfIqKfQWuG",
+          "name": "Une seule vie",
+          "artists": [
+            "Angèle"
+          ],
+          "album": "Instinct",
+          "image": "https://i.scdn.co/image/ab67616d00001e0276bc7fba28c6824eaf828fd6",
+          "durationMs": 245606,
+          "url": "https://open.spotify.com/track/3m1TLSxcCwT2CfIqKfQWuG"
+        },
+        {
           "id": "2kHnjvUOJzT81S4uSLQfM9",
           "name": "Shoot",
           "artists": [
@@ -153,15 +164,15 @@
           "url": "https://open.spotify.com/track/2kHnjvUOJzT81S4uSLQfM9"
         },
         {
-          "id": "3m1TLSxcCwT2CfIqKfQWuG",
-          "name": "Une seule vie",
+          "id": "4OMLC6CWEqwCvfv289QNlw",
+          "name": "C63",
           "artists": [
-            "Angèle"
+            "Werenoi"
           ],
-          "album": "Instinct",
-          "image": "https://i.scdn.co/image/ab67616d00001e0276bc7fba28c6824eaf828fd6",
-          "durationMs": 245606,
-          "url": "https://open.spotify.com/track/3m1TLSxcCwT2CfIqKfQWuG"
+          "album": "Pyramide 2",
+          "image": "https://i.scdn.co/image/ab67616d00001e025e69d7a9159306d54ee54fd2",
+          "durationMs": 209000,
+          "url": "https://open.spotify.com/track/4OMLC6CWEqwCvfv289QNlw"
         },
         {
           "id": "2ZWmmrWUgDBcPSLihBMvhg",
@@ -180,28 +191,6 @@
           "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
         },
         {
-          "id": "3TVUW7bJJWDOonkVCZxfLV",
-          "name": "Pas bête",
-          "artists": [
-            "Beendo Z"
-          ],
-          "album": "L'Élu",
-          "image": "https://i.scdn.co/image/ab67616d00001e02f31a63df8e43bc2feef2a585",
-          "durationMs": 143525,
-          "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
-        },
-        {
-          "id": "7wFxXTPnZOQ4z0AhPddq5n",
-          "name": "Dispense",
-          "artists": [
-            "Werenoi"
-          ],
-          "album": "Diamant Noir",
-          "image": "https://i.scdn.co/image/ab67616d00001e02f4aec0b976368624d9281ace",
-          "durationMs": 165581,
-          "url": "https://open.spotify.com/track/7wFxXTPnZOQ4z0AhPddq5n"
-        },
-        {
           "id": "73ctrsmkdu7GJS1as79hPu",
           "name": "C'est tout moi",
           "artists": [
@@ -211,6 +200,17 @@
           "image": "https://i.scdn.co/image/ab67616d00001e029e05ef9292400bcdf98d1de2",
           "durationMs": 149733,
           "url": "https://open.spotify.com/track/73ctrsmkdu7GJS1as79hPu"
+        },
+        {
+          "id": "3TVUW7bJJWDOonkVCZxfLV",
+          "name": "Pas bête",
+          "artists": [
+            "Beendo Z"
+          ],
+          "album": "L'Élu",
+          "image": "https://i.scdn.co/image/ab67616d00001e02f31a63df8e43bc2feef2a585",
+          "durationMs": 143525,
+          "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
         }
       ]
     },
